@@ -5160,3 +5160,1251 @@
 2026-04-04T16:05:39 player: played "Songs/Artists/Baani Sandhu Gur Sidhu/8 Parche/8 Parche.flac"
 2026-04-04T16:08:44 player: played "Songs/Artists/Alex Sierra/Its About Us/Little Do You Know.flac"
 2026-04-04T16:13:20 player: played "Songs/Artists/Arjun Kanungo/Woh Baarishein/Woh Baarishein.flac"
+2026-04-05T23:55:52 player: played "Songs/Artists/Arjun Kanungo/Woh Baarishein/Woh Baarishein.flac"
+2026-04-06T00:06:52 player: played "Songs/Artists/Alessia Fontana/La Ragazza della Riviera/La Ragazza della Riviera.flac"
+2026-04-06T00:06:59 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-04-08T16:54:00 player: played "Songs/Artists/Baani Sandhu Gur Sidhu/8 Parche/8 Parche.flac"
+2026-04-08T16:58:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T16:58:49 player: played "Songs/Soundtracks/Ae Dil Hai Mushkil Original Motion Picture Soundtrack/Channa Mereya.flac"
+2026-04-08T16:58:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T16:58:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T17:11:45 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a"
+2026-04-08T17:56:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T17:57:30 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Farcroft Birmingham UK Concert 1985 Vol 148/Ranjha Mera Rab Warga.flac"
+2026-04-08T17:57:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T17:57:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T18:23:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T18:23:32 player: played "Songs/Compilations/Best Of Ustad Nusrat Fateh Ali Khan/Ja Dil Tenoon De Chadya.m4a"
+2026-04-08T18:23:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T18:23:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:32:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:32:50 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a"
+2026-04-08T22:32:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:32:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:51:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:52:13 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ankh Uthi Mohabbat Ne.m4a"
+2026-04-08T22:52:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T22:52:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:06:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:06:32 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kali Kali Zulfon Ke Phande Na.m4a"
+2026-04-08T23:06:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:06:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:23:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:23:56 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aisa Bana Sanwarna Mubarik Tumhen.m4a"
+2026-04-08T23:23:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-08T23:23:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:42:35 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-04-09T12:48:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:49:28 player: played "Songs/Artists/Cigarettes After Sex/Xs/X's.flac"
+2026-04-09T12:49:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:49:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:51:30 player: played "Songs/Artists/Domenico Modugno/Singles/Nel blu dipinto di blu.m4a"
+2026-04-09T12:54:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:55:14 player: played "Songs/Artists/Daniel Schulz/Turn Back Time/Turn Back Time.flac"
+2026-04-09T12:55:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:55:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:58:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:58:47 player: played "Songs/Artists/Chiara Civello/Canzoni Deluxe Edition/Senza fine.m4a"
+2026-04-09T12:58:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T12:58:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:02:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:02:29 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Black Moon Rising.m4a"
+2026-04-09T13:02:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:02:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-09T13:05:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:05:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:05:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T13:10:01 player: played "Songs/Artists/Adriano Celentano/World Is Big And Salvation Lurks Around The Corner/Soli.flac"
+2026-04-09T13:13:47 player: played "Songs/Artists/Alessia Fontana/La Ragazza della Riviera/La Ragazza della Riviera.flac"
+2026-04-09T13:16:52 player: played "Songs/Artists/Alessia Fontana/Il Modo In Cui Amavamo/Il Modo In Cui Amavamo.flac"
+2026-04-09T13:21:35 player: played "Songs/Artists/Bassnectar/Into the Sun/Speakerbox (feat. Lafa Taylor).flac"
+2026-04-09T13:26:22 player: played "Songs/Compilations/Best Of Chris Isaak/Wicked Game.flac"
+2026-04-09T14:04:41 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Ashes.flac"
+2026-04-09T14:10:01 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Blues Serenade.flac"
+2026-04-09T14:14:49 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Bourbon Blues.flac"
+2026-04-09T14:19:50 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Glass.flac"
+2026-04-09T14:24:00 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight in the Glass.flac"
+2026-04-09T14:28:41 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight on My Mind.flac"
+2026-04-09T14:33:30 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight on the Rocks.flac"
+2026-04-09T14:37:59 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Whiskey Blues.flac"
+2026-04-09T14:43:19 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Whiskey and Midnight.flac"
+2026-04-09T14:48:11 player: played "Songs/Compilations/Chicago Blues Radio Vol 001/Whiskey Shadows.flac"
+2026-04-09T14:53:01 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-04-09T14:55:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T14:56:05 player: played "Songs/Artists/Cigarettes After Sex/Xs/X's.flac"
+2026-04-09T14:56:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T14:56:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T14:58:07 player: played "Songs/Artists/Domenico Modugno/Singles/Nel blu dipinto di blu.m4a"
+2026-04-09T15:01:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:01:50 player: played "Songs/Artists/Daniel Schulz/Turn Back Time/Turn Back Time.flac"
+2026-04-09T15:01:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:01:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:05:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:05:24 player: played "Songs/Artists/Chiara Civello/Canzoni Deluxe Edition/Senza fine.m4a"
+2026-04-09T15:05:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:05:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:08:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:09:06 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Black Moon Rising.m4a"
+2026-04-09T15:09:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:09:06 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:12:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:13:12 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Colors.m4a"
+2026-04-09T15:13:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:13:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:16:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:17:18 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Fire.m4a"
+2026-04-09T15:17:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:17:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:22:08 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/OCT 33.m4a"
+2026-04-09T15:22:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:22:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:25:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:26:00 player: played "Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Politicians In My Eyes.m4a"
+2026-04-09T15:26:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:26:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:28:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:28:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:28:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:32:18 player: played "Songs/Soundtracks/Profumo di donna Original Motion Picture Soundtrack/Che Vuole Questa Musica Stasera.m4a"
+2026-04-09T15:33:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:33:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:33:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:58:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:58:38 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehte Ho Ishq Ka Afsana Chahiye.m4a"
+2026-04-09T15:58:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-09T15:58:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-12T20:04:18 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-04-17T14:54:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-17T15:00:06 player: played "Songs/Soundtracks/Ae Dil Hai Mushkil Original Motion Picture Soundtrack/Bulleya.m4a"
+2026-04-17T15:04:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-17T15:04:56 player: played "Songs/Soundtracks/Ae Dil Hai Mushkil Original Motion Picture Soundtrack/Channa Mereya.flac"
+2026-04-17T15:17:51 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a"
+2026-04-17T15:41:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-17T15:42:30 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Farcroft Birmingham UK Concert 1985 Vol 148/Ranjha Mera Rab Warga.flac"
+2026-04-17T16:08:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-17T16:08:33 player: played "Songs/Compilations/Best Of Ustad Nusrat Fateh Ali Khan/Ja Dil Tenoon De Chadya.m4a"
+2026-04-17T16:18:50 mixer: Failed to read mixer for "CoreAudio": The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:42:51 mixer: Failed to read mixer for "CoreAudio": The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:42:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-18T20:42:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-18T20:48:52 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a"
+2026-04-18T20:48:52 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:48:52 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:48:52 player: problems opening audio device while playing "Songs/Artists/Aditya Rikhari/Faasle/Faasle.flac"
+2026-04-18T20:48:58 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:48:58 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:04 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:09 player: played "Songs/Artists/Aditya Rikhari/Faasle/Faasle.flac"
+2026-04-18T20:49:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:09 player: problems opening audio device while playing "Songs/Artists/A Kay Gaurav Dev Kartik Dev Mahira Sharma/Zindagi/Zindagi.flac"
+2026-04-18T20:49:13 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:13 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:35 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:35 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:36 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:36 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-04-18T20:49:47 player: played "Songs/Artists/A Kay Gaurav Dev Kartik Dev Mahira Sharma/Zindagi/Zindagi.flac"
+2026-04-18T20:50:01 player: played "Songs/Artists/A Kay Gaurav Dev Kartik Dev Mahira Sharma/Zindagi/Zindagi.flac"
+2026-04-18T20:50:19 player: played "Songs/Artists/Aditya Rikhari/Faasle/Faasle.flac"
+2026-04-18T20:50:29 player: played "Songs/Artists/Aditya Rikhari/Tu Kahan/Tu Kahan.flac"
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-04-18T20:50:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-18T20:53:24 player: played "Songs/Artists/Adriano Celentano/World Is Big And Salvation Lurks Around The Corner/Soli.flac"
+2026-04-18T20:54:19 player: played "Songs/Artists/Aghori Muzik K Deep Aghori Muzik Kruz Aghori Muzik/Jay Jay Shiv Shambhu 3/Jay Jay Shiv Shambhu 3.flac"
+2026-04-18T20:54:59 player: played "Songs/Artists/Aghori Muzik K Deep Aghori Muzik Kruz Aghori Muzik/Jay Jay Shiv Shambhu 3/Jay Jay Shiv Shambhu 3.flac"
+2026-04-18T20:56:58 player: played "Songs/Artists/Alessia Fontana/La Ragazza della Riviera/La Ragazza della Riviera.flac"
+2026-04-18T20:59:58 player: played "Songs/Artists/Kodaline/In A Perfect World Expanded Edition/All I Want.flac"
+2026-04-18T21:03:03 player: played "Songs/Artists/Alex Sierra/Its About Us/Little Do You Know.flac"
+2026-04-18T21:07:54 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-04-18T21:09:57 player: played "Songs/Artists/Anuv Jain/Mishri/Mishri.flac"
+2026-04-18T21:10:36 player: played "Songs/Artists/Bassnectar/Into the Sun/Speakerbox (feat. Lafa Taylor).flac"
+2026-04-18T21:10:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-18T22:43:16 player: played "Songs/Artists/Bill Withers/God Bless America/Lean on Me.m4a"
+2026-04-18T22:43:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-19T13:14:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-19T13:15:16 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a"
+2026-04-19T13:32:40 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aisa Bana Sanwarna Mubarik Tumhen.m4a"
+2026-04-19T13:36:49 player: played "Songs/Artists/Payal Dev Jubin Nautiyal/Jamming With Jubin/Tum Hi Aana.flac"
+2026-04-19T13:41:49 player: played "Songs/Soundtracks/Meray Pass Tum Ho Original Motion Picture Soundtrack/Meray Pass Tum Ho (Original Motion Picture Soundtrack).flac"
+2026-04-19T13:47:19 player: played "Songs/Soundtracks/Tum Mile Original Motion Picture Soundtrack/Dil Ibaadat.flac"
+2026-04-19T13:58:20 player: played "Songs/Artists/AGNEZ MO Spice/Get Loose Remix/Get Loose.flac"
+2026-04-19T14:02:53 player: played "Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Hasi (Male Version).flac"
+2026-04-19T14:05:42 player: played "Songs/Artists/Ammy Virk Sonam Bajwa/Wang Da Naap/Wang Da Naap.flac"
+2026-04-19T14:08:55 player: played "Songs/Soundtracks/Angrej Original Motion Picture Soundtrack/Kurta Suha.flac"
+2026-04-19T14:11:30 player: played "Songs/Soundtracks/Angrej Original Motion Picture Soundtrack/Family Di Member.flac"
+2026-04-19T14:15:16 player: played "Songs/Artists/Amrinder Gill/Supna/Supna.flac"
+2026-04-22T23:09:13 player: played "Songs/Soundtracks/Angrej Original Motion Picture Soundtrack/Kurta Suha.flac"
+2026-04-22T23:14:09 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac"
+2026-04-22T23:17:59 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-04-22T23:22:26 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac"
+2026-04-22T23:26:25 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac"
+2026-04-22T23:30:19 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac"
+2026-04-22T23:34:24 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac"
+2026-04-22T23:39:06 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac"
+2026-04-22T23:43:44 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac"
+2026-04-23T03:05:01 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-04-23T03:11:03 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Ghar Se Nikle The Hausala Karke.flac"
+2026-04-23T03:17:39 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Gum Soom Yeh Jahan Hai.flac"
+2026-04-23T03:21:17 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Hothon Se Chhu Lo Tum.flac"
+2026-04-23T03:26:54 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Kanton Se Daaman Uljhana.flac"
+2026-04-23T03:31:19 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Mujhko Yakeen Hai (Edited).flac"
+2026-04-23T03:36:17 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Muskurakar Mila Karo Humse.flac"
+2026-04-23T03:41:12 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Tera Chehra Hai Aaeene Jaisa.flac"
+2026-04-23T03:46:47 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Uski Baten To Phool Hon Jaise.flac"
+2026-04-23T12:10:21 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Woh Kaghaz Ki Kashti.flac"
+2026-04-23T12:16:59 player: played "Songs/Artists/Lata Mangeshkar/Singles/Lata Mangeshkar - Luka Chuppi.flac"
+2026-04-23T12:20:48 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac"
+2026-04-23T12:25:15 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac"
+2026-04-23T12:29:14 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac"
+2026-04-23T12:33:08 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac"
+2026-04-23T12:37:13 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac"
+2026-04-23T12:41:58 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac"
+2026-04-23T20:36:02 player: played "Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac"
+2026-04-23T20:41:58 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac"
+2026-04-23T23:09:32 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Ghar Se Nikle The Hausala Karke.flac"
+2026-04-23T23:14:36 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Gum Soom Yeh Jahan Hai.flac"
+2026-04-23T23:18:16 player: played "Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Hothon Se Chhu Lo Tum.flac"
+2026-04-23T23:24:24 player: played "Songs/Artists/Diljit Dosanjh/Laembadgini Single/Laembadgini.flac"
+2026-04-23T23:27:19 player: played "Songs/Artists/Diljit Dosanjh/Jind Mahi/Jind Mahi.flac"
+2026-04-23T23:29:50 player: played "Songs/Artists/Diljit Dosanjh/Roar/Thug Life.flac"
+2026-04-23T23:33:47 player: played "Songs/Artists/Diljit Dosanjh/GOAT/Born to Shine.flac"
+2026-04-23T23:37:52 player: played "Songs/Artists/Diljit Dosanjh/Akhiri Salaam From Jodi/Akhiri Salaam.flac"
+2026-04-23T23:43:17 player: played "Songs/Artists/Kaka WRLD/Radha Unconditional Love/Radha (Unconditional Love).flac"
+2026-04-23T23:48:21 player: played "Songs/Artists/Kaka WRLD/Bholenath 2 The Destroyer/Bholenath 2 (The Destroyer).flac"
+2026-04-23T23:51:07 player: played "Songs/Artists/Khan Bhaini Shipra Goyal/Gaddi Pichhe Naa/Gaddi Pichhe Naa.flac"
+2026-04-24T01:57:15 player: played "Classical_villian/A Playlist to feel like a ＂Villain＂ plotting his revenge. [dzCuwjHFd7M].opus"
+2026-04-25T01:26:08 player: played "Classical_villian/Classical Music for the Villains out there ✦ Epic Music ✦ [-ZWwmVDQ20Q].opus"
+2026-04-28T14:22:45 player: played "Songs/Artists/Diljit Dosanjh/Laembadgini Single/Laembadgini.flac"
+2026-04-28T14:28:54 player: played "Songs/Artists/Mustafa Zahid Mithoon/Ek Villain/Zaroorat.flac"
+2026-04-28T14:32:27 player: played "Songs/Artists/Saaj Bhatt/Halki Si Barsaat/Halki Si Barsaat.flac"
+2026-04-28T14:37:56 player: played "Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Humnava.flac"
+2026-04-28T14:42:29 player: played "Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Hasi (Male Version).flac"
+2026-04-30T15:53:09 player: played "Songs/Artists/Arjun Kanungo King/Ilzaam From the Album Industry/Ilzaam.flac"
+2026-04-30T15:56:50 player: played "Songs/Artists/B Praak Jaani/Jannat From Sufna Single/Jannat.flac"
+2026-04-30T16:01:54 player: played "Songs/Artists/Papon/Kyun Kiya/Kyun Kiya.flac"
+2026-04-30T16:05:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T16:06:44 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-04-30T16:10:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T16:10:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T16:20:14 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a"
+2026-04-30T16:44:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T16:44:53 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Farcroft Birmingham UK Concert 1985 Vol 148/Ranjha Mera Rab Warga.flac"
+2026-04-30T16:44:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T16:44:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T17:10:56 player: played "Songs/Compilations/Best Of Ustad Nusrat Fateh Ali Khan/Ja Dil Tenoon De Chadya.m4a"
+2026-04-30T18:37:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T18:38:30 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Digbeth Civic Hall UK Concert 1985 Vol 145/Ainwen Bol Na Banera Utte Kanwan.flac"
+2026-04-30T18:38:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-04-30T18:38:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-02T23:30:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-02T23:30:32 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a"
+2026-05-02T23:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-02T23:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:28:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:28:30 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ankh Uthi Mohabbat Ne.m4a"
+2026-05-03T00:28:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:28:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:42:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:42:50 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kali Kali Zulfon Ke Phande Na.m4a"
+2026-05-03T00:42:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:42:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T00:59:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T01:00:14 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aisa Bana Sanwarna Mubarik Tumhen.m4a"
+2026-05-03T01:00:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T01:00:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T20:49:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T20:49:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T20:49:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T23:50:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T23:50:22 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehte Ho Ishq Ka Afsana Chahiye.m4a"
+2026-05-03T23:50:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-03T23:50:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T00:24:02 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehna Ghalat Ghalat.m4a"
+2026-05-04T00:43:04 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tere Darwaze Peh Chilman Nahin Dekhi Jati.flac"
+2026-05-04T00:51:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T00:52:32 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Dil Pe Zakham Khate Hain.flac"
+2026-05-04T00:52:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T00:52:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T08:58:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T08:59:34 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-05-04T08:59:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T08:59:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T10:41:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T10:42:16 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-05-04T10:42:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T10:42:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-04T11:10:48 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a"
+2026-05-04T22:41:01 player: played "Songs/Artists/Mustafa Zahid Mithoon/Ek Villain/Zaroorat.flac"
+2026-05-04T22:44:34 player: played "Songs/Artists/Saaj Bhatt/Halki Si Barsaat/Halki Si Barsaat.flac"
+2026-05-04T22:50:03 player: played "Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Humnava.flac"
+2026-05-04T22:54:35 player: played "Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Hasi (Male Version).flac"
+2026-05-04T22:58:43 player: played "Songs/Artists/Arjun Kanungo King/Ilzaam From the Album Industry/Ilzaam.flac"
+2026-05-05T16:41:20 player: played "Songs/Artists/B Praak Jaani/Jannat From Sufna Single/Jannat.flac"
+2026-05-05T16:46:24 player: played "Songs/Artists/Papon/Kyun Kiya/Kyun Kiya.flac"
+2026-05-05T16:50:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T16:51:14 player: played "Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac"
+2026-05-05T16:51:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T16:51:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T19:02:12 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a"
+2026-05-05T19:26:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T19:26:51 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Farcroft Birmingham UK Concert 1985 Vol 148/Ranjha Mera Rab Warga.flac"
+2026-05-05T19:26:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T19:26:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T19:52:54 player: played "Songs/Compilations/Best Of Ustad Nusrat Fateh Ali Khan/Ja Dil Tenoon De Chadya.m4a"
+2026-05-05T20:32:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:32:39 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Digbeth Civic Hall UK Concert 1985 Vol 145/Ainwen Bol Na Banera Utte Kanwan.flac"
+2026-05-05T20:32:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:32:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:46:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:46:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:46:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T20:46:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:02:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:02:57 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a"
+2026-05-05T21:02:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:02:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:22:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:22:20 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ankh Uthi Mohabbat Ne.m4a"
+2026-05-05T21:22:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:22:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:36:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:36:39 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kali Kali Zulfon Ke Phande Na.m4a"
+2026-05-05T21:36:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:36:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:53:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:54:03 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aisa Bana Sanwarna Mubarik Tumhen.m4a"
+2026-05-05T21:54:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-05T21:54:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:13:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:14:09 player: played "Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a"
+2026-05-06T10:14:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:14:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:14:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:14:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:14:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:39:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:39:42 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehte Ho Ishq Ka Afsana Chahiye.m4a"
+2026-05-06T10:39:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T10:39:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T11:13:02 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehna Ghalat Ghalat.m4a"
+2026-05-06T11:39:28 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tere Darwaze Peh Chilman Nahin Dekhi Jati.flac"
+2026-05-06T12:45:53 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Dil Pe Zakham Khate Hain.flac"
+2026-05-06T12:47:46 update: added /B Praak - Filhall.flac
+2026-05-06T12:47:46 update: updating Songs/Compilations/Best Of/Simple Man.m4a
+2026-05-06T12:47:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:46 update: updating Songs/Compilations/Collection Sergio Endrigo/Lontano dagli occhi.m4a
+2026-05-06T12:47:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:46 update: updating Songs/Compilations/Best Of Ustad Nusrat Fateh Ali Khan/Ja Dil Tenoon De Chadya.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Compilations/Definitive Collection/Never Can Say Goodbye.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Ultimate 80s Hit Songs The Best of the 80s/I Will Be Right Here Waiting for You.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Greatest Hits Gods Favorite Band/Boulevard of Broken Dreams.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Best of Paolo Conte/Via con me.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Ashes.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight on the Rocks.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Whiskey Blues.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Glass.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight in the Glass.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Bourbon Blues.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight Blues Serenade.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Whiskey and Midnight.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Midnight on My Mind.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Chicago Blues Radio Vol 001/Whiskey Shadows.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Best Of Chris Isaak/Wicked Game.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Radio Pakistan Hits By Ghulam Ali Vol03/Ishq Ka Zarf Azma Tu Sahi.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Radio Pakistan Hits By Ghulam Ali Vol03/Le Na Dobain Kahin Dumiya Kay Nazary.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Radio Pakistan Hits By Ghulam Ali Vol 04/Tere Aane Ka Dhokha.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Radio Pakistan Hits By Ghulam Ali Vol 04/Eik Hee Sehr Mein.flac
+2026-05-06T12:47:47 update: updating Songs/Compilations/Radio Pakistan Hits By Ghulam Ali Vol 04/Rikhsat Hova Jab.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mankirt Aulakh DJ Flow/Badnam Single/Badnam.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harry Styles/Singles/Sign of the Times.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Papon/Kyun Kiya/Kyun Kiya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Saaj Bhatt/Halki Si Barsaat/Halki Si Barsaat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ustad Nusrat Fateh Ali Khan Ustad Sultan Khan/Pukaar The Echo/Main to piya se naina lagaa aayi re.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Lucio Dalla/12000 lune/Caruso.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed/End Of The World Heartbreak Hits/12 Saal.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed/Twelve/Adhi Adhi Raat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed/Twelve/Mahiya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed/Twelve/Ja Jay Tu Jana.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Garry Sandhu Jasmine Sandlas/Illegal Weapon/Illegal Weapon.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Ammy Virk/Sufna Other Hits/Jaan Deyan Ge.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Tones and I/Dance Monkey Pop Favorites/Dance Monkey.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mithoon Arijit Singh/Arijits Aura/Sanam Re.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Inteha/Aaina Saamne Rakhoge To Yaad Aayonga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Ghar Se Nikle The Hausala Karke.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Tera Chehra Hai Aaeene Jaisa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Mujhko Yakeen Hai (Edited).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Muskurakar Mila Karo Humse.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Bahut Khoobsurat (Vadh - Soundtrack Version).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Woh Kaghaz Ki Kashti.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Kanton Se Daaman Uljhana.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Gum Soom Yeh Jahan Hai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Hothon Se Chhu Lo Tum.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jagjit Singh/Singles/Jagjit Singh - Uski Baten To Phool Hon Jaise.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Guru Randhawa/Ishq Tera/Ishq Tera.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Navv Inder Badshah/Wakhra Swag Hai Tera/Wakhra Swag.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mohammed Rafi/Rafi Saab Bouncers/DARD-E-DIL DARD-E-JIGAR.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Halsey/If I Cant Have Love I Want Power Deluxe/Nightmare.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jordan Sandhu Bunty Bains/Teeje Week/Teeje Week.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/AGNEZ MO Spice/Get Loose Remix/Get Loose.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Fabrizio De Andre/Non Al Denaro Non AllAmore Ne Al Cielo/La collina.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Armaan Malik Amaal Mallik/Azhar/Bol Do Na Zara.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kishore Kumar R D Burman/Melodies of Kishore Kumar/Tera Mujhse.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Chiara Civello/Canzoni Deluxe Edition/Senza fine.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Guru Randhawa Dhvani Bhanushali/Groove With Guru/Ishare Tere.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/JatinLalit SHAAN Kailash Kher Prasoon Joshi/Fanaa/Chand Sifarish.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/RAHAT FATEH ALI KHAN Richa Sharma VishalShekhar/Bollywood Beats By VishalShekhar/Jag Soona Soona Lage.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Shivam Pathak Sanjay Leela Bhansali/Mauja Hi Mauja With Shahid Kapoor/Ek Dil Ek Jaan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Anuv Jain/Baarishein/Baarishein.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Anuv Jain/Mishri/Mishri.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ravindra Jain/Jai Hanuman Gyan Gun Sagar/Mangal Bhavan Amangal Hari (Version 2).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mustafa Zahid Mithoon/Ek Villain/Zaroorat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Thomas Benjamin Wild Esq/Ive No More Fucks To Give/I've No More Fucks To Give.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Manna Dey Kalyanji Anandji Indeevar/Upkar/Kasme Wade Pyar Wafa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kamal Khan VishalShekhar/Bollywood Beats By VishalShekhar/Ishq Sufiyana (Male).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Julio Iglesias/Crazy/Mammy Blue.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Sach Keh Raha Hai Single/Sach Keh Raha Hai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Kuch Bhi Ho Jaye/Kuch Bhi Ho Jaye.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Sufna Other Hits/Channa Ve.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Sufna Other Hits/Rabba Ve.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Honeymoon/Jhaanjar.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak/Mann Bharrya Single/Mann Bharrya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Franoise Hardy/Le temps des souvenirs/Comment te dire adieu.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jonas Blue William Singe/Mama/Mama.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Khan Bhaini Shipra Goyal/Gaddi Pichhe Naa/Gaddi Pichhe Naa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jeet Gannguli Arijit Singh Rashmi Virag/Arijit Singh Ultimate Love Songs/Muskurane (Romantic).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Arijit Singh SachetParampara/Arijits Aura/Bekhayali (Arijit Singh Version).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Millind Gaba/Daaru Party Single/Daaru Party.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Millind Gaba/Main Teri Ho Gayi Single/Main Teri Ho Gayi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Joji/Glimpse of Us/Glimpse of Us.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Shirley Bassey/Pop Hits of the 70s/(Where Do I Begin) Love Story.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Stan Getz/BGM/The Girl From Ipanema.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Kamal Khan/Ammi From Sufna Single/Ammi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/James Taylor/Mud Slide Slim and the Blue Horizon/You've Got a Friend.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Arijit Singh/Phir Na Aisi Raat Aayegi From Laal Singh Chaddha/Phir Na Aisi Raat Aayegi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mina/MinaCantaLucio/Il nostro caro angelo (2001 Remaster).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Daniel Schulz/Turn Back Time/Turn Back Time.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Savi Kahlon The Masterz/TERE NAAL PYAAR MAAYE/TERE NAAL PYAAR MAAYE.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Marshmello AnneMarie/FRIENDS/FRIENDS.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Dean Martin/Dino The Essential Dean Martin/Sway (Quien Sera).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/VishalShekhar KK Shilpa Rao Anvita Dutt Guptan/Bachna Ae Haseeno/Khuda Jaane.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akull/Laal Chunariya/Laal Chunariya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Param Singh Kamal Kahlon Pratik Studio/Daru Badnaam/Daru Badnaam.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kulwinder Billa/Parahuna/Tich Button.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Tony Kakkar/Naagin Jaisi Kamar Hila From Sangeetkaar/Naagin Jaisi Kamar Hila.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maras/No One Noticed/No One Noticed.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Farcroft Birmingham UK Concert 1985 Vol 148/Ranjha Mera Rab Warga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aisa Bana Sanwarna Mubarik Tumhen.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: added Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ni Mein Jana Jogi De Naal.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Dil Pe Zakham Khate Hain.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kali Kali Zulfon Ke Phande Na.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Aap Baithe Hain Balin Peh Meri.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehte Ho Ishq Ka Afsana Chahiye.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ankh Uthi Mohabbat Ne.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tere Darwaze Peh Chilman Nahin Dekhi Jati.flac
+2026-05-06T12:47:47 update: added Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Sheikh Jee Baith Kar Maekashon Mein.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Kehna Ghalat Ghalat.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: added Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Nusrat Fateh Ali Khan - Aaj Milkar Bhi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Tum Ek Gorakh Dhanda Ho.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Digbeth Civic Hall UK Concert 1985 Vol 145/Ainwen Bol Na Banera Utte Kanwan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nusrat Fateh Ali Khan/Qawwali/Unse Hi Aaj Unki Mulaqaat Ho Gayi.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Pritam Mohit Chauhan Sandeep Shrivastava/New York/Tune Jo Na Kaha.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harrdy Sandhu Jaani/Dance Like/Dance Like.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harrdy Sandhu Jaani/Naah/Naah.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harrdy Sandhu Jaani/Kya Baat Ay/Kya Baat Ay.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harrdy Sandhu Jaani/Backbone/Backbone.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jassi Gill/Replay/Bapu Zimidar.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sachet Tandon SachetParampara/Mauja Hi Mauja With Shahid Kapoor/Bekhayali.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Cat Stevens/Tea For The Tillerman/Wild World.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Cat Stevens/Tea For The Tillerman/Father And Son.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Ammy Virk/Qismat Single/Qismat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ammy Virk/Tod Da E Dil/Tod Da E Dil.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ammy Virk/Main Suneya/Main Suneya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ammy Virk/Haaye Ve/Haaye Ve.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Akshay Kumar Nupur Sanon Ammy Virk/Filhaal2 Mohabbat/Filhaal2 Mohabbat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil/Teri Kami Single/Teri Kami.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil/Rukh Single/Rukh.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil/Welcome 2020/Supne.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil/Khaab/Khaab.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil/Bachalo/Bachalo.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kambi Rajpuria Avvy Sra/Kinna Kardi/Kinna Kardi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Brad Paisley/5th Gear/Letter to Me.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nate Dogg Warren G/Prodigal Son Digitally Remastered/Nobody Does It Better.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Harnoor Gifty/Waalian/Waalian.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Garry Sandhu Rahul Sathu Loco Ink/Like You Tere Jaisi/Like You (Tere Jaisi).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Happy Raikoti/Zinda/Zinda.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Darshan Raval/Ek Tarfa/Ek Tarfa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Darshan Raval/Baarishon Mein/Baarishon Mein.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Gravity.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/In Repair.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/I Don't Trust Myself (With Loving You).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Stop This Train.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Vultures.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Dreaming with a Broken Heart.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/The Heart of Life.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Belief.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Waiting On the World to Change.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/I'm Gonna Find Another You.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Slow Dancing in a Burning Room.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/John Mayer/Continuum/Bold as Love.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed Momina Mustehsan/Baari/Baari.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Cigarettes After Sex/Singles/Apocalypse.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Cigarettes After Sex/Xs/X's.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jubin Nautiyal Mithoon/Jamming With Jubin/Tujhe Kitna Chahein Aur.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar/Punjabi Dj Holi songs/Sakhiyaan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar/Kaali Hummer/Kaali Hummer.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar/Ik Tera/Ik Tera.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar/Tutt Chali Yaari/Tutt Chali Yaari.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mohammed Aziz Anand Bakshi/Amrit/Duniya Mein Kitna Gham Hai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jass Manak/Age 19/Viah.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jass Manak/Gal Sun From Shooter/Gal Sun.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jass Manak/No Competition/Butterfly.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jass Manak/Prada/Prada.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sachet Tandon Parampara Tandon SachetParampara/Sachet Paramparas Soul Soothers/Ghamand Kar.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/JatinLalit Sonu Nigam Sunidhi Chauhan Prasoon Joshi/Fanaa/Mere Haath Mein.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ananya Prakash/Aaj Mangalvaar Hai Mahaveer Ka Vaar/Aaj Mangalvaar Hai Mahaveer Ka Vaar.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam SHAMBHO Rajneesh Jaipuri Jagirdar RV Meetu Solanki/Shoorveer III/Shoorveer III.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam SHAMBHO Rajneesh Jaipuri Jagirdar RV Meetu Solanki/Shoorveer III/Shoorveer III.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Diljit Dosanjh/Akhiri Salaam From Jodi/Akhiri Salaam.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Diljit Dosanjh/Laembadgini Single/Laembadgini.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Diljit Dosanjh/GOAT/Born to Shine.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Diljit Dosanjh/Jind Mahi/Jind Mahi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Diljit Dosanjh/Roar/Thug Life.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Jaani/Jannat From Sufna Single/Jannat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Jaani/Zohrajabeen/Main Aaunga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Jaani/Kya Loge Tum/Kya Loge Tum.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Franco Battiato/LImboscata/La Cura.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Sanam/Ek Pyar Ka Nagma Hai Single/Ek Pyar Ka Nagma Hai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sanam/Ek Ladki Ko Dekha To Asia Laga Single/Ek Ladki Ko Dekha To Asia Laga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sanam/Kora Kagaz Single/Kora Kagaz.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jassie Gill Avvy Sra/Pyaar Mangdi/Pyaar Mangdi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Anirudh Ravichander Jonita Gandhi/Arabic Kuthu Halamithi Habibo From Beast/Arabic Kuthu - Halamithi Habibo.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Fareed Ayaz Abu Muhammad Qawwal/Piya Ghar Aaya Coke Studio Season 11/Piya Ghar Aaya (Coke Studio Season 11).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Ornella Vanoni/Appuntamento Con Ornella Vanoni/L'appuntamento.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ornella Vanoni/E Poi La Tua Bocca Da Baciare/Estate.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Mannat Noor/Laung Laachi/Laung Laachi Title Track.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/AJR/OK ORCHESTRA/World's Smallest Violin.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Satinder Sartaaj/Seasons of Sartaaj/Udaarian.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Satinder Sartaaj/Seven Rivers/Matwaliye.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/ZAYN/Nobody Is Listening/Tightrope.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/nikk Avneet Kaur/Yaari/Yaari.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Gino Paoli/Una Sera Con Gino Paoli/La gatta.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Shaggy Rayvon/Hot Shot/Angel.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Luigi Tenco/Lontano lontano nel tempo/Ciao amore, ciao.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Everyone Loves Lovers.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Goodbye.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Let's Go Out Tonight.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Waltzing's For Dreamers.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Curtis Stigers/Lets Go Out Tonight/This Bitter Earth.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Sachet Tandon Parampara Tandon/Shiv Panchakshar Stotra/Shiv Panchakshar Stotra.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Nish/Standing By you/Standing By you.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sergio Cammariere/Mano nella mano/Siedimi accanto.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Sergio Cammariere/Sul sentiero/Nessuna è come te.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Tony Renis/Made In Italy/Quando, Quando, Quando.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Tony Renis/Le Canzoni di Tony Renis/Perche, perche.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Nawab/Expert Jatt/Expert Jatt.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mike The Mechanics/Living Years/The Living Years.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Bill Withers/God Bless America/Lean on Me.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Mankirt Aulakh Shree Brar Nimrat Khaira/Vail feat Nimrat Khaira Shree Brar/Vail (feat. Nimrat Khaira & Shree Brar).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Benson Boone/In The Stars/In The Stars.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jishu Mandal/Zakhm Dete Ho Kehte Unplugged/Zakhm Dete Ho Kehte (Unplugged).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam Rajneesh Jaipuri Honey Trouper/Shoorveer/Shoorveer.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam Rajneesh Jaipuri Honey Trouper/Shoorveer/Shoorveer.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Ninja/Chor/Chor.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ninja/Aadat/Aadat.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Afsana Khan Avvy Sra Harrdy Sandhu Sargun Mehta/Titliaan/Titliaan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Shravan Tapas Relia/Hanuman Returns/Dhishum Dhishum.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kodaline/In A Perfect World Expanded Edition/All I Want.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Gipsy Kings/Singles/A Mi Manera.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Baani Sandhu Gur Sidhu/8 Parche/8 Parche.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Arjun Kanungo/Woh Baarishein/Woh Baarishein.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Vinay Katoch/Layak/Layak.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mahalakshmi Iyer Chirrantan Bhatt/1920 Evil Returns/Khud Ko Tere.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/RiNGOTune/Variety Box Orgel Edition Vol84/Suzume (Orgel) [Cover].flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Lakhwinder Wadali Neha Malik/Gulabi/Gulabi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/White Buffalo/Whistler/The Whistler.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Vilen/Chidiya/Chidiya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Payal Dev Jubin Nautiyal/Jamming With Jubin/Tum Hi Aana.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/denny Rahul Mishra Kunaal Vermaa/Chale Jaana Phir Humko Tere Bina/Chale Jaana Phir (Humko Tere Bina).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Aditya Rikhari/Faasle/Faasle.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Aditya Rikhari/Tu Kahan/Tu Kahan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Krakota Fred V Tudor/Back To Me/Back To Me.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Silambarasan TR/Thee Thalapathy From Varisu/Thee Thalapathy.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/A Kay Gaurav Dev Kartik Dev Mahira Sharma/Zindagi/Zindagi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Phil Collins/But Seriously 2016 Remaster/That's Just the Way It Is (2016 Remaster).m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil Sachdeva Tulsi Kumar/Mauja Hi Mauja With Shahid Kapoor/Tera Ban Jaunga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Aghori Muzik K Deep Aghori Muzik Kruz Aghori Muzik/Jay Jay Shiv Shambhu 3/Jay Jay Shiv Shambhu 3.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Darshan Raval Himesh Reshammiya/Teraa Surroor/Main Woh Chaand.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akhil Dhvani Bhanushali/Candid With Kriti/Duniyaa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Darshan Raval Shreya Ghoshal/Judaiyaan/Judaiyaan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kaka WRLD/Bholenath 2 The Destroyer/Bholenath 2 (The Destroyer).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kaka WRLD/Radha Unconditional Love/Radha (Unconditional Love).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Hashmat Sultana/Sufna Other Hits/Qubool A.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Adriano Celentano/World Is Big And Salvation Lurks Around The Corner/Soli.flac
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Ammy Virk Sonam Bajwa/Wang Da Naap/Wang Da Naap.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar Jaani/Laare/Laare.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Alessia Fontana/Il Modo In Cui Amavamo/Il Modo In Cui Amavamo.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Alessia Fontana/La Ragazza della Riviera/La Ragazza della Riviera.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/SukhE Muzical Doctorz/Coka/Coka.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Michael Learns To Rock/Strange Foreign Beauty/That's Why You Go Away.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Negramaro/Mentre Tutto Scorre Deluxe Version/Ogni Mio Istante.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Negramaro/Mentre Tutto Scorre Deluxe Version/Solo Per Te.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Maninder Buttar Akasa/Teri Meri Ladayi/Teri Meri Ladayi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Shankar Mahadevan/Shiv Tandav Stotram Single/Shiv Tandav Stotram.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harvi/Pta Mainu/Pta Mainu.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harvi/Kde Kde/Kde Kde.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Amrinder Gill/Supna/Supna.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Guru Randhawa Jay Sean/Groove With Guru/Surma Surma.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/RAHAT FATEH ALI KHAN/Back 2 Love/Zaroori Tha.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Imran Khan/Satisfya/Satisfya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Imran Khan/Amplifier/Amplifier.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Deep Jandu DiVine/Down to Earth/Bombay To Punjab.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Asa Singh Mastana Surinder Kaur/Main Tenu/Main Tenu.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Maanya Arora Shubham Bajoria/Shree Shyam Kripa/Shree Shyam Kripa.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Brijesh Shandilya/Sada Bahar Bhajan Vol 1/Bajrang Baan Superfast.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Brijesh Shandilya/Hanuman Chalisa Superfast/Hanuman Chalisa Superfast.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Arijit Singh Tulsi Kumar/Loveholic Arijit Singh/Dekh Lena.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rochak Kohli/Mausama/Mausama.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Vishal Mishra/Mauja Hi Mauja With Shahid Kapoor/Kaise Hua.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Tulsi Kumar SachetParampara/Sachet Paramparas Soul Soothers/Tanhaai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Anand Raaj Anand/Dil De Diya From Thank God/Dil De Diya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Fire.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Colors.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Know You Better.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Politicians In My Eyes.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Black Moon Rising.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/OCT 33.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Black Pumas/Black Pumas Deluxe Edition/Ain't No Love In The Heart of The City.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jasmine Sandlas Garry Sandhu/Vividly Varun Dhawan/Illegal Weapon 2.0.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/WARHALL/Whiplash/Dead Man Walking.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Elvis Presley/Elvis 30 1 Hits/(You're The) Devil in Disguise.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Lata Mangeshkar/Singles/Lata Mangeshkar - Luka Chuppi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Arijit Singh Mithoon/Mauja Hi Mauja With Shahid Kapoor/Tujhe Kitna Chahne Lage.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jimmy Fontana/Singles/Il mondo.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Bilal Saeed Dr Zeus Amrinder Gill Young Fateh/Twelve/2 Number.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Laddi Chahal Parmish Verma Gurlej Akhtar/Forever/Rubicon Drill.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/ELLIOT JAMES REAY/I Think They Call This Love/I Think They Call This Love.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Mithoon Altamash Faridi Tulsi Kumar/Wajah Tum Ho/Wajah Tum Ho.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mika Singh Yo Yo Honey Singh/End and Other Hits/Mast Kalander.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Paolo Conte/Aguaplano/Jimmy, ballando.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Paolo Conte/Aguaplano/Blu notte.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Paolo Conte/Aguaplano/Midnight's Knock Out.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Paolo Conte/Aguaplano/Anni.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Cheetah Nia Archives/Get Loose/Get Loose.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sharry Mann/Top Bhangra Party Hits 2024/3 Peg.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jubin Nautiyal/Tum Hi Aana Sad Version From Marjaavaan/Tum Hi Aana (Sad Version).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jubin Nautiyal/Marjaavaan/Tum Hi Aana (Sad Version).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Miss Pineda/Happy Italy Jazzy Italian Lounge/Quando quando quando.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Aspettami.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Una notte a Napoli.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Kikuchiyo To Mohshimasu.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Una notte a Napoli.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Song of the Black Swan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Hang on Little Tomato/Clementine.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Sympathique/La soledad.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Sympathique/¿Donde éstas, Yolanda?.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Pink Martini/Sympathique/Amado mio.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Yaad Kar Wo Din Ke Tera Koyi Saudaayi Na Tha Ba-Wujood-e-Husn Tu.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Apni Dhun Mein Rehta Hoon Main Bhi Terey Jaisa Hoon.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Wo Jo Merey Paas Se Ho Kar Kisi Kay Ghar Gaya Reshmi Malboos Ki Khushbu Se.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Khumaar-e-Shab Mein Ussey Main Salaam Kar Baitha Jo Kaam Karna Tha.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Dil Waan Se Jo Kal Shataab Aaya Bar Ko Bohat Ataab Aaya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Gham Ki Baarish Ne Bhi Terey Naqsh Ko Dhoya Nahin Tu Ne Mujh Ko Kho Diya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Ham Ashk-e-Gham Hain Agar Tham Rahey Rahey Na Rahey.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Singles/Ghulam Ali - Jagg Mein Koyi Na Tukk Hansa Hoga Ke Na Hansney Mein Ro Diya Hoga.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ghulam Ali/Chupke Chupke Raat Din and Other Hits/Musafir Chalte Chalte Thak Gaya Hai.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Agam Aggarwal/Mangal Bhavan Amangal Haari Ramayan Title Song 1987/Mangal Bhavan Amangal Haari Ramayan Title Song 1987.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Aghori Muzik/Panchayat/Jay Jay Shiv Shambhu 2.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/XXXTENTACION/New Years Resolutions 2024/changes.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/Lover, You Should Have Come Over.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/Next Year Baby.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/But For Now.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/I Could Have Danced All Night.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/It's About Time.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Jamie Cullum/Twentysomething/Twentysomething.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Doorbeen/Lamberghini Single/Lamberghini.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Akon/Trouble Deluxe Edition/Lonely.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Parmish Verma/Shadgi/Shadgi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Parmish Verma/Munde Pind De/Munde Pind De.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Parmish Verma/Balle Te Balle/Meri Marzi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Sumit Goswami/Feelings/Feelings.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kishore Kumar/Matinee Star Rajesh Khanna/Mere Sapnon Ki Rani.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Hardy Sandhu/Joker/Joker.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bassnectar/Into the Sun/Speakerbox (feat. Lafa Taylor).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Mehdi Hassan/65 Years of A Pakistani Musical Journey/Mujhe Tum Nazar Se Gira To Rahe Ho.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Armaan Malik Neeti Mohan/Pyaar Manga Hai/Pyaar Manga Hai.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kabir Cafe/Panchrang/Matkar Maya Ko Ahankar.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Calum Scott/Only Human Deluxe/You Are The Reason.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Gajendra Verma/Tera Ghata/Tera Ghata.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Inder Chahal Rajat Nagpal/Gal Karke/Gal Karke.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ankush Raja Khushi Kakkar Elly Mangat/Chithiyaan/Chithiyaan.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Jassi Gill Simar Kaur/Oye Hoye Hoye/Oye Hoye Hoye.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Garry Sandhu/Fresh All the Way/Banda Ban Ja.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Garry Sandhu/Yeh Baby Remix/Yeh Baby.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Gippy Grewal/Nach Nach/Nach Nach.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Brodha V/Aathma Raama/Aathma Raama.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Labrinth/Jealous EP/Jealous.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Gippy Grewal Bohemia/Car Nachdi/Car Nachdi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Alex Brothers/Phantom/Phantom.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam Jagirdar RV/Ram Doot/Ram Doot.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Rapperiya Baalam Jagirdar RV/Shoorveer II/Shoorveer II.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Maroon 5/JORDI Deluxe/Memories.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Armaan Bedil/Main Vichara Single/Main Vichara.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Frank Sinatra/My Way Expanded Edition/My Way.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Alex Sierra/Its About Us/Little Do You Know.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Domenico Modugno/Singles/Nel blu dipinto di blu.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/KK Pritam/Bajrangi Bhaijaan/Tu Jo Mila.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Indravathi Chauhan Devi Sri Prasad/Oo Antava Oo Oo Antava From Pushpa The Rise Part 01/Oo Antava Oo Oo Antava.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Imagine Dragons/Evolve/Whatever It Takes.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Imagine Dragons/Evolve/Thunder.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Imagine Dragons/Top Gaming Songs/Demons.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Arjun Kanungo King/Ilzaam From the Album Industry/Ilzaam.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Serge Nova Neoclubber/Earthers Guide to the Galaxy/Fermi Paradox.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Kamal Khan/Taare/Taare.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Script william/3/Hall of Fame (feat. will.i.am).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Garry Sandhu Rahul Sathu/Do Gallan Lets Talk/Do Gallan (Let's Talk).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Bruno Mars/DooWops Hooligans/Just the Way You Are.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Piyush Mishra/Gulaal/Aarambh.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Shaggy/It Wasnt Me/It Wasn't Me (Vocal 12" Mix).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Ornella Vanoni Toquinho Vincius de Moraes/La voglia la pazzia lincoscienza lallegria/Samba della rosa.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Madhur Sharma Nusrat Fateh Ali Khan/Mere Baad Kisko Sataoge Lofi/Mere Baad Kisko Sataoge (Lofi).flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Harish Verma/Judaayi/Judaayi.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Satbir Aujla/Dil Todya/Dil Todya.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/Zain Zohaib/Ranjheya Ve/Ranjheya Ve.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Mario Biondi/Rio De Janeiro Blue Live at Laima Rendezvous/Rio De Janeiro Blue.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Artists/Parvathy kapoor/Hai Katha Sangram Ki/Hai Katha Sangram Ki.flac
+2026-05-06T12:47:47 update: updating Songs/Artists/B Praak Akshay Kumar Nupur Sanon/Filhall/Filhall.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Patthar Ke Sanam Original Motion Picture Soundtrack/Tauba Yeh Matwali Chaal.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Patthar Ke Sanam Original Motion Picture Soundtrack/Pathar Ke Sanam.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Solva Saal Original Motion Picture Soundtrack/Hai Apna Dil To Aawara (Happy Version).flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Hanuman Original Motion Picture Soundtrack/The War Begins (Background Music).flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Arth Original Motion Picture Soundtrack/Koi Yeh Kaise Bataye.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/RAAZ The Mystery Continues Original Motion Picture Soundtrack/Maahi.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Ae Dil Hai Mushkil Original Motion Picture Soundtrack/Bulleya.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Ae Dil Hai Mushkil Original Motion Picture Soundtrack/Channa Mereya.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Fast And The Furious Tokyo Drift Original Motion Picture Soundtrack/Tokyo Drift (Fast & Furious).flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Jurm Original Motion Picture Soundtrack/Jab Koi Baat Bigad Jaye.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Woh Kaun Thi Original Motion Picture Soundtrack/Lag Ja Gale Se Phir.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Hostel/Hostel.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Angrej Original Motion Picture Soundtrack/Family Di Member.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Angrej Original Motion Picture Soundtrack/Kurta Suha.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Saath Saath Original Motion Picture Soundtrack/Pyar Mujh Se Jo Kiya.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Humnava.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Hamari Adhuri Kahani Original Motion Picture Soundtrack/Hasi (Male Version).flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Sholay Original Motion Picture Soundtrack/Mehbooba Mehbooba.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Meray Pass Tum Ho Original Motion Picture Soundtrack/Meray Pass Tum Ho (Original Motion Picture Soundtrack).flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Hum Dono Original Motion Picture Soundtrack/Jahan Mein Aesa Kaun Hai.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Mera Naam Joker Original Motion Picture Soundtrack/Jeena Yahan Marna Yahan.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Qismat Original Motion Picture Soundtrack/Dholna.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Bhaag Milkha Bhaag Original Motion Picture Soundtrack/Zinda.flac
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Neram Original Motion Picture Soundtrack/Pistah.m4a
+2026-05-06T12:47:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:47 update: updating Songs/Soundtracks/Profumo di donna Original Motion Picture Soundtrack/Che Vuole Questa Musica Stasera.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Khamoshiyan Original Motion Picture Soundtrack/Khamoshiyan.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Bees Saal Baad Original Motion Picture Soundtrack/Beqarar Karke Hamen Yun Na Jaiye.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Dil Main Nahi Laona From Laiye Je Yaarian Soundtrack/Dil Main Nahi Laona.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Dr Horribles SingAlong Blog Motion Picture Soundtrack/My Eyes.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Bobby Original Motion Picture Soundtrack/Main Shair To Nahin.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Ginny Weds Sunny Original Motion Picture Soundtrack/Rubaru.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Tum Mile Original Motion Picture Soundtrack/Dil Ibaadat.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Despicable Me 2 Original Motion Picture Soundtrack/I Swear.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Saagar Original Motion Picture Soundtrack/Saagar Jaisi Aankhonwali.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Saagar Original Motion Picture Soundtrack/Saagar Jaisi Aankhonwali.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Ik Sandhu Hunda Si Original Motion Picture Soundtrack/Galib.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Awarapan Original Motion Picture Soundtrack/Tera Mera Rishta.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Mismatched Season 2 Soundtrack from the Netflix Series/Aise Kyun (Ghazal Version).flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Sufna Original Motion Picture Soundtrack/Jannat.flac
+2026-05-06T12:47:48 update: updating Songs/Soundtracks/Anamika Original Motion Picture Soundtrack/Bahon Mein Chale Aao.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: added /Jass Manak - Prada.flac
+2026-05-06T12:47:48 update: added /Ammy Virk - Qismat.flac
+2026-05-06T12:47:48 update: updating Classical_villian/Classical Music for the Villains out there ✦ Epic Music ✦ [-ZWwmVDQ20Q].opus
+2026-05-06T12:47:48 update: updating Classical_villian/Classical Music for When You’re on a Deadline [QjkaWADdU9w].opus
+2026-05-06T12:47:48 update: updating Classical_villian/A Playlist to feel like a ＂Villain＂ plotting his revenge. [dzCuwjHFd7M].opus
+2026-05-06T12:47:48 update: updating Classical_villian/Classical Villain - Classical Music For Villains [B8vtnVWrR64].opus
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-01 Рим.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-35 Gelateria.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-36 Mundo Loco (Short Mix).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-17 Serenata di Vino.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-32 Sotto il Sole.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-09 Atmosfera dolce.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-15 Look of Love.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-05 Vola con me.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-07 Goditi questo momento.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-27 Ode al Vino Rosso.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-07 Флоренция.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-06 Italiano Serenade.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-14 Vino e Stelle.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-21 Sinfonia del Gusto.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-09 Baci al Cioccolato (BGM).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-20 Enchanted Noche.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-12 Un altro.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-19 Incanto Italiano.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-03 Amore Infinito.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-07 Notti d'Estate.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-11 Cena Romantica.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-10 Cielo notturno.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-02 Tempo di cambiamento.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-26 Caffè e Amore.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-29 Bossa of the Heart.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-01 Dolce Amore (BGM).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-38 Felice (Short Mix).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-03 Perso nei tuoi occhi.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-13 Sol y Soul.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-04 Сицилия.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-05 Римини.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-04 Fuori controllo.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-15 Caffè e Luna.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-13 Corpo e anima.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-02 Неаполь.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-22 Pasticceria d'Amore (BGM).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-06 Una notte perfetta.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-06 Венеция.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-24 Bailando in the Moonlight.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-08 Giorno pigro.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-18 Whispered Parole.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-33 Roma Moon (BGM).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-16 Baci Sotto la Luna.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-03 Капри.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-02 Sogno d'Italia.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-40 Baton Rouge (Short Mix).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-14 Ricordi estivi.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-01 Accoglienti giornate autunnali.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-12 Dolce Melodia.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Cafe Aurora - Italia - 01-08 Милан.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-10 Caffè Italiano.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-05 Nostalgia Italiana.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-28 Lost in Venezia.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-23 Caffè con Te.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Caffè italiano lounge - Sensuale musica da wine bar - Bere caffè nella caffetteria, Ballate per cena italiana - 01-11 Parlare a me stesso.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-08 Notte di Vino.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-34 Dolci Mattini.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-25 Strade Infiniti.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-39 Santa Clarita (Short Mix).m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-30 Dolce Serata.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-04 Bella Serenade.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-37 Cornetto Romantico.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating Italian_cafe/Salina Cruz - Caffè Italiano - Romantic Italian Jazz - 01-31 Bella Notte.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: updating /Nusrat Fateh Ali Khan - Dard Rukta Nahin Ik Pal Bhi Ishq Ki Yeh Saza Mil Rahi Hai.m4a
+2026-05-06T12:47:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T12:47:48 update: added /Sukh-E Muzical Doctorz - Coka.flac
+2026-05-06T12:47:48 update: added /Jass Manak - Butterfly.flac
+2026-05-06T12:47:48 update: removing 075. Ammy Virk - Qismat.flac
+2026-05-06T12:47:48 update: removing 081. Jass Manak - Prada.flac
+2026-05-06T12:47:48 update: removing 068. Jass Manak - Butterfly.flac
+2026-05-06T12:47:48 update: removing 082. B Praak - Filhall.flac
+2026-05-06T12:47:48 update: removing 088. Sukh-E Muzical Doctorz - Coka.flac
+2026-05-06T13:19:06 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Ni Mein Jana Jogi De Naal.flac"
+2026-05-06T13:20:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T13:31:06 player: played "Songs/Artists/ELLIOT JAMES REAY/I Think They Call This Love/I Think They Call This Love.m4a"
+2026-05-06T13:39:30 player: played "Songs/Artists/Parvathy kapoor/Hai Katha Sangram Ki/Hai Katha Sangram Ki.flac"
+2026-05-06T13:43:20 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Clementine.flac"
+2026-05-06T13:51:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T13:52:00 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Una notte a Napoli.flac"
+2026-05-06T13:56:43 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Una notte a Napoli.m4a"
+2026-05-06T14:01:15 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Kikuchiyo To Mohshimasu.flac"
+2026-05-06T14:04:54 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Aspettami.flac"
+2026-05-06T14:07:05 player: played "Songs/Artists/Pink Martini/Hang on Little Tomato/Song of the Black Swan.flac"
+2026-05-06T14:23:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:25:58 player: played "Songs/Artists/Miss Pineda/Happy Italy Jazzy Italian Lounge/Quando quando quando.m4a"
+2026-05-06T14:26:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:26:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:26:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:59:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:59:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T14:59:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:02:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:02:55 player: played "Songs/Artists/Maninder Buttar/Kaali Hummer/Kaali Hummer.flac"
+2026-05-06T15:02:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:02:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:04:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:04:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:06:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:06:58 player: played "Songs/Artists/Franco Battiato/LImboscata/La Cura.m4a"
+2026-05-06T15:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:09:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:09:40 player: played "Songs/Artists/Tony Renis/Le Canzoni di Tony Renis/Perche, perche.m4a"
+2026-05-06T15:09:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:09:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:11:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:12:10 player: played "Songs/Artists/Franoise Hardy/Le temps des souvenirs/Comment te dire adieu.m4a"
+2026-05-06T15:12:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:12:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:15:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:16:12 player: played "Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Everyone Loves Lovers.m4a"
+2026-05-06T15:16:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:16:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:20:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:20:55 player: played "Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Goodbye.m4a"
+2026-05-06T15:20:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:20:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:23:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:24:18 player: played "Songs/Artists/Curtis Stigers/Lets Go Out Tonight/This Bitter Earth.m4a"
+2026-05-06T15:24:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:24:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:28:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:28:40 player: played "Songs/Artists/Curtis Stigers/Lets Go Out Tonight/Waltzing's For Dreamers.m4a"
+2026-05-06T15:28:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:28:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:29:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-06T15:29:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-07T15:13:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-07T15:13:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-07T22:32:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-07T22:32:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-07T22:33:37 player: played "Songs/Artists/Maninder Buttar/Kaali Hummer/Kaali Hummer.flac"
+2026-05-08T00:02:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-08T00:03:29 player: played "Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Nusrat Fateh Ali Khan - Aaj Milkar Bhi.flac"
+2026-05-08T00:03:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-08T00:03:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-09T21:24:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-09T21:24:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-09T21:35:06 player: played "Songs/Artists/Ustad Nusrat Fateh Ali Khan Ustad Sultan Khan/Pukaar The Echo/Main to piya se naina lagaa aayi re.m4a"

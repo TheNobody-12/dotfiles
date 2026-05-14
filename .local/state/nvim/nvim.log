@@ -202,3 +202,1337 @@ WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal m
 WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
 WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
 WRN 2026-04-04T17:01:26.311 ui.57356   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:08:02.079 ui.63572   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:08:02.080 ui.63572   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:08:02.080 ui.63572   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:08:02.080 ui.63572   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:08:02.080 ui.63572   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:12:42.334 ui.65518   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:12:42.335 ui.65518   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:12:42.335 ui.65518   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:12:42.335 ui.65518   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:12:42.335 ui.65518   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:12:46.989 ui.65580   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:12:46.990 ui.65580   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:12:46.990 ui.65580   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:12:46.990 ui.65580   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:12:46.990 ui.65580   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:14:27.018 ui.66408   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:14:27.019 ui.66408   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:14:27.019 ui.66408   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:14:27.019 ui.66408   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:14:27.019 ui.66408   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:43:17.217 ui.79198   tui_stop:647: TUI: timed out waiting for DA1 response
+WRN 2026-04-04T17:46:17.220 ui.80652   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:46:17.221 ui.80652   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:46:17.221 ui.80652   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:46:17.221 ui.80652   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:46:17.221 ui.80652   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T17:46:46.129 ui.80893   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T17:46:46.129 ui.80893   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T17:46:46.129 ui.80893   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T17:46:46.130 ui.80893   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T17:46:46.130 ui.80893   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T18:28:14.791 ui.99196   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-04T18:28:14.792 ui.99196   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T18:28:14.792 ui.99196   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-04T18:28:14.792 ui.99196   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-04T18:28:14.792 ui.99196   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-04T22:05:54.096 ui.95628   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:06:10.933 ui.95831   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:06:35.302 ui.96060   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:06:52.094 ui.96219   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:07:15.786 ui.96442   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:07:35.108 ui.96620   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-04T22:10:39.956 ui.97979   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-05T23:14:56.233 ui.46373   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-05T23:14:56.234 ui.46373   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-05T23:14:56.234 ui.46373   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-05T23:14:56.234 ui.46373   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-05T23:14:56.234 ui.46373   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-07T12:49:14.843 ui.11899   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T13:52:08.191 ui.64826   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T13:54:25.738 ui.67009   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T16:38:58.454 ui.94853   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-07T16:38:58.455 ui.94853   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T16:38:58.455 ui.94853   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-07T16:38:58.455 ui.94853   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-07T16:38:58.455 ui.94853   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-07T17:14:23.180 ui.25483   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-07T17:14:23.181 ui.25483   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T17:14:23.181 ui.25483   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-07T17:14:23.181 ui.25483   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-07T17:14:23.181 ui.25483   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-07T17:15:31.812 ui.26795   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-07T17:15:31.813 ui.26795   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T17:15:31.813 ui.26795   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-07T17:15:31.813 ui.26795   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-07T17:15:31.813 ui.26795   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-07T18:00:51.654 ui.89422   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T18:01:47.459 ui.90211   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T18:56:18.622 ui.76825   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:03:42.227 ui.87867   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:05:02.716 ui.88942   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:05:14.125 ui.89143   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:08:35.516 ui.95723   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:09:14.829 ui.4571    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-07T19:09:23.691 ui.5835    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T00:45:34.348 ui.7889    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T01:00:07.776 ui.36824   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T01:01:25.545 ui.38214   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T01:01:39.766 ui.38456   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T01:02:09.121 ui.39001   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T01:02:28.139 ui.39360   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T02:12:59.275 ui.33058   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T11:03:28.529 ui.74040   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T13:10:41.354 ui.49338   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T13:14:16.641 ui.56870   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T15:39:54.980 ui.66227   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T15:41:08.399 ui.68557   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T15:44:04.787 ui.71666   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T15:45:07.464 ui.72772   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:21:24.250 ui.66656   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:32:37.681 ui.92019   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:33:26.041 ui.98230   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:33:38.749 ui.98469   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:36:08.961 ui.5752    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-08T16:41:31.058 nvim.66657.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T16:41:31.059 nvim.66657.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T16:41:31.059 nvim.66657.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-08T16:42:23.627 ui.22855   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T16:42:52.952 ui.23269   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T17:11:37.116 ui.10300   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T17:14:17.027 ui.19121   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-08T17:14:40.728 nvim.19122.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T17:14:40.729 nvim.19122.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T17:14:40.782 nvim.19122.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-08T17:42:24.035 ui.2175    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T17:42:48.697 ui.2613    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T18:17:47.986 ui.40961   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-08T18:17:59.466 nvim.40962.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T18:17:59.467 nvim.40962.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T18:17:59.467 nvim.40962.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-08T18:19:25.455 ui.42668   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T18:21:21.079 ui.44665   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T20:54:07.259 ui.95720   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T20:54:53.124 ui.96597   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T21:00:14.611 ui.2870    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T22:39:51.424 ui.19489   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-08T22:54:54.433 nvim.5764.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T22:54:54.434 nvim.5764.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-08T22:54:54.434 nvim.5764.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-08T23:22:39.160 ui.13034   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T23:23:11.242 ui.13599   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T23:37:48.115 ui.50479   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-08T23:44:31.154 ui.72634   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T08:45:37.786 ui.49166   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T08:46:15.161 ui.49852   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T11:57:07.245 ui.39308   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T11:57:10.812 ui.39405   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:28:03.356 ui.42783   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:30:13.270 ui.45266   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:30:51.765 ui.45959   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:31:18.095 ui.46453   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:32:00.608 ui.47263   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:34:18.324 ui.49830   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:39:07.828 ui.54976   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T12:39:43.113 ui.55634   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-09T12:41:25.869 nvim.54977.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-09T12:41:25.870 nvim.54977.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-09T12:41:25.870 nvim.54977.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-09T12:48:37.524 ui.64926   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T14:54:12.958 ui.19622   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T15:16:06.255 ui.58898   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-09T15:16:24.823 ui.59276   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-11T17:37:06.919 ui.42533   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-11T17:37:06.921 ui.42533   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-11T17:37:06.921 ui.42533   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-11T17:37:06.921 ui.42533   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-11T17:37:06.921 ui.42533   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-11T17:39:08.096 ui.75393   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-11T18:25:17.974 ui.99635   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-11T18:25:17.975 ui.99635   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-11T18:25:17.975 ui.99635   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-11T18:25:17.975 ui.99635   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-11T18:25:17.975 ui.99635   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-11T18:35:59.565 ui.89606   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-11T18:35:59.566 ui.89606   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-11T18:35:59.566 ui.89606   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-11T18:35:59.566 ui.89606   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-11T18:35:59.566 ui.89606   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-12T00:46:46.320 ui.66933   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-12T00:47:05.931 ui.69581   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-12T00:47:53.205 ui.76088   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-12T00:57:36.524 ui.59090   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-12T01:13:36.308 ui.88383   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-12T01:28:14.302 ui.9351    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T15:22:01.173 ui.79684   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-13T15:23:16.968 nvim.79685.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-13T15:23:16.968 nvim.79685.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-13T15:23:16.968 nvim.79685.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-13T15:23:55.899 ui.80836   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T16:22:52.080 ui.22443   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T16:32:39.752 ui.29125   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T17:26:52.670 ui.43023   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T20:46:37.414 ui.81309   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T21:36:38.400 ui.49535   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T21:37:13.471 ui.49937   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T21:41:36.557 ui.58100   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T22:52:24.427 ui.7685    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-13T22:52:24.428 ui.7685    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T22:52:24.428 ui.7685    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-13T22:52:24.428 ui.7685    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-13T22:52:24.428 ui.7685    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-13T23:10:12.554 ui.24367   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T23:10:32.383 ui.24594   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T23:11:09.151 ui.24994   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T23:11:18.842 ui.25120   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-13T23:13:48.834 ui.30107   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:47:52.213 ui.83015   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:48:19.391 ui.83340   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:48:38.273 ui.83566   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:49:34.468 ui.84266   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:50:12.139 ui.84684   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:50:29.272 ui.84894   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:58:12.973 ui.98380   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T11:58:29.081 ui.98575   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T12:06:24.164 ui.14611   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:36:25.770 ui.2214    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:44:15.660 ui.15867   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:44:47.085 ui.16230   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:46:45.215 ui.17522   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:49:23.461 ui.20479   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T19:50:29.662 ui.21178   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T20:16:08.293 ui.77657   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-14T20:40:50.994 ui.8187    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T13:08:25.510 ui.19633   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-15T14:18:45.113 nvim.19634.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-15T14:18:45.113 nvim.19634.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-15T14:18:45.113 nvim.19634.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-15T14:19:30.595 ui.69220   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T14:19:50.119 ui.69472   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T14:29:08.675 ui.75977   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T16:58:16.486 ui.14886   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:28:53.227 ui.93839   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:37:51.148 ui.2452    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:38:41.733 ui.6730    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:39:45.853 ui.7451    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:40:03.364 ui.7693    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:41:49.521 ui.21329   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:41:56.869 ui.21450   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T18:42:28.267 ui.21811   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-15T19:12:22.295 nvim.21812.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-15T19:12:22.296 nvim.21812.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-15T19:12:22.296 nvim.21812.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-15T19:20:58.946 ui.46547   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T19:33:06.910 ui.61287   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T19:35:06.441 ui.63298   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T19:46:55.188 ui.70792   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T19:57:52.057 ui.80558   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-15T20:00:16.164 ui.82157   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T11:46:30.615 ui.96632   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T11:47:38.745 ui.96699   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T11:48:15.521 ui.96748   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T11:56:58.975 ui.96980   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T12:00:17.939 ui.97124   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T12:26:28.343 ui.97755   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-16T13:56:25.243 ui.99632   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T08:55:19.753 ui.95621   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T08:55:57.023 ui.96026   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:09:55.827 ui.5595    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:10:53.947 ui.6267    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:19:43.532 ui.12532   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:24:43.170 ui.15415   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:25:31.135 ui.15902   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:32:43.892 ui.19804   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:41:56.785 ui.23778   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:42:01.118 ui.23851   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:53:33.859 ui.30439   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:54:49.530 ui.31177   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T09:55:53.425 ui.31815   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T10:03:09.426 ui.35979   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:01:26.880 ui.25287   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:02:55.652 ui.26987   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:07:30.170 ui.31872   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:08:28.673 ui.32896   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:19:11.608 ui.44428   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T15:35:58.765 ui.67304   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T16:10:00.612 ui.7903    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T16:11:56.473 ui.10459   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T16:12:39.594 ui.11250   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T16:14:49.001 ui.14120   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-17T16:34:28.283 ui.48505   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-19T13:15:59.520 ui.37874   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-19T14:12:09.546 ui.7556    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-19T14:12:34.055 ui.7987    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-19T14:13:16.482 ui.8772    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-21T22:50:08.735 ui.37925   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-21T22:53:32.910 ui.40761   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T00:55:51.495 ui.83675   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T00:57:22.894 ui.85243   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T01:12:16.707 ui.7035    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T01:27:00.893 ui.22334   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-04-24T02:51:11.653 nvim.22335.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-24T02:51:11.653 nvim.22335.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-04-24T02:51:11.654 nvim.22335.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-04-24T03:12:24.102 ui.78079   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T09:59:08.675 ui.83556   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T12:06:40.423 ui.60701   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-24T12:06:49.376 ui.60897   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-25T10:48:22.053 ui.32152   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-25T10:48:22.053 ui.32152   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-25T10:48:22.053 ui.32152   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-25T10:48:22.053 ui.32152   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-25T10:48:22.053 ui.32152   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-27T14:40:05.372 ui.92594   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-27T14:40:05.372 ui.92594   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-27T14:40:05.372 ui.92594   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-27T14:40:05.372 ui.92594   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-27T14:40:05.372 ui.92594   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-27T14:42:35.445 ui.94109   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-27T14:42:35.446 ui.94109   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-27T14:42:35.446 ui.94109   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-27T14:42:35.446 ui.94109   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-27T14:42:35.446 ui.94109   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-28T08:28:51.817 ui.24965   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-04-28T08:28:51.818 ui.24965   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-28T08:28:51.818 ui.24965   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-04-28T08:28:51.818 ui.24965   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-04-28T08:28:51.818 ui.24965   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-04-28T12:24:16.577 ui.64486   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-28T12:37:26.228 ui.81605   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-28T14:33:22.310 ui.7691    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:00:56.872 ui.36970   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:05:18.523 ui.41639   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:05:52.294 ui.42297   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:06:44.870 ui.43266   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:40:18.598 ui.87701   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T16:53:53.678 ui.10613   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T17:10:38.469 ui.30843   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T17:10:44.161 ui.30971   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T17:10:56.182 ui.31181   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T18:32:29.623 ui.40053   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-04-30T18:48:59.178 ui.60344   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:05:42.156 ui.48894   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:05:42.156 ui.48894   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:05:42.156 ui.48894   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:05:42.156 ui.48894   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:05:42.156 ui.48894   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:06:48.649 ui.50192   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:06:48.649 ui.50192   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:06:48.649 ui.50192   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:06:48.649 ui.50192   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:06:48.649 ui.50192   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:07:04.959 ui.50535   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:07:04.960 ui.50535   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:07:04.960 ui.50535   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:07:04.960 ui.50535   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:07:04.960 ui.50535   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:07:44.347 ui.51324   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:07:44.348 ui.51324   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:07:44.348 ui.51324   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:07:44.348 ui.51324   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:07:44.348 ui.51324   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:40:27.371 ui.10150   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:40:27.372 ui.10150   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:40:27.372 ui.10150   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:40:27.372 ui.10150   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:40:27.372 ui.10150   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:41:16.289 ui.11040   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:41:16.289 ui.11040   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:41:16.289 ui.11040   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:41:16.289 ui.11040   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:41:16.289 ui.11040   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:41:46.769 ui.11618   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:41:46.769 ui.11618   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:41:46.769 ui.11618   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:41:46.769 ui.11618   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:41:46.770 ui.11618   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:42:32.176 ui.13287   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:42:32.177 ui.13287   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:42:32.177 ui.13287   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:42:32.177 ui.13287   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:42:32.177 ui.13287   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:42:42.657 ui.13505   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:42:42.657 ui.13505   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:42:42.657 ui.13505   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:42:42.657 ui.13505   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:42:42.657 ui.13505   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:44:33.614 ui.15748   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:44:33.615 ui.15748   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:44:33.615 ui.15748   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:44:33.615 ui.15748   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:44:33.615 ui.15748   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-02T23:54:04.141 ui.37394   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-02T23:54:04.142 ui.37394   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-02T23:54:04.142 ui.37394   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-02T23:54:04.142 ui.37394   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-02T23:54:04.142 ui.37394   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+ERR 2026-05-02T23:54:04.260 nvim.37395.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+WRN 2026-05-03T01:36:24.749 ui.51447   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T01:36:24.749 ui.51447   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T01:36:24.749 ui.51447   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T01:36:24.749 ui.51447   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T01:36:24.750 ui.51447   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T02:09:22.637 ui.5201    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T02:09:22.637 ui.5201    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T02:09:22.637 ui.5201    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T02:09:22.637 ui.5201    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T02:09:22.638 ui.5201    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T14:34:23.639 ui.9635    tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T14:34:23.640 ui.9635    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T14:34:23.640 ui.9635    tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T14:34:23.640 ui.9635    tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T14:34:23.640 ui.9635    tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T14:36:07.830 ui.12366   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-03T14:36:07.932 nvim.12367.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+ERR 2026-05-03T14:36:09.717 nvim.12367.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+WRN 2026-05-03T15:35:13.747 ui.26940   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T15:35:46.127 ui.27523   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T15:36:50.476 ui.28664   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T15:38:01.871 ui.29947   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T18:39:36.212 ui.63625   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T20:14:37.613 ui.7747    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T20:26:30.500 ui.24434   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T21:00:52.220 ui.66997   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T21:02:57.097 ui.72828   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T21:02:57.098 ui.72828   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T21:02:57.098 ui.72828   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T21:02:57.098 ui.72828   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T21:02:57.098 ui.72828   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T23:03:58.787 ui.57074   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T23:18:43.190 ui.97452   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T23:18:43.191 ui.97452   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T23:18:43.191 ui.97452   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T23:18:43.191 ui.97452   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T23:18:43.191 ui.97452   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T23:19:49.817 ui.98700   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T23:19:49.818 ui.98700   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T23:19:49.818 ui.98700   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T23:19:49.818 ui.98700   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T23:19:49.818 ui.98700   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T23:27:30.278 ui.10252   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-03T23:27:30.279 ui.10252   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-03T23:27:30.279 ui.10252   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-03T23:27:30.279 ui.10252   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-03T23:27:30.279 ui.10252   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-03T23:41:40.174 ui.53567   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T00:29:14.668 ui.70769   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T00:32:58.589 ui.78987   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T00:41:55.826 ui.3072    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T00:48:31.852 ui.16384   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T01:09:00.731 ui.66262   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T01:29:51.081 ui.24686   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T01:29:51.084 ui.24686   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T01:29:51.086 ui.24686   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T01:29:51.087 ui.24686   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T01:29:51.093 ui.24686   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T07:58:32.857 ui.65679   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:12:51.414 ui.90703   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:23:30.889 ui.11586   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:25:02.777 ui.13153   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:31:02.575 ui.23614   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:31:17.662 ui.23876   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-04T08:31:17.792 nvim.23877.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+ERR 2026-05-04T08:31:19.438 nvim.23877.0 decor_provider_error:29: Error in decoration provider "start" (ns=nvim.treesitter.highlighter):
+Lua: ...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	[C]: in function 'f'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:215: in function 'tcall'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:596: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:580: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:557>
+WRN 2026-05-04T08:32:30.744 ui.25162   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:32:59.782 ui.25667   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:33:26.679 ui.26193   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T08:49:11.097 ui.73246   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T10:07:21.324 ui.37661   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T10:07:26.055 ui.37781   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T10:10:35.129 ui.41004   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:15:38.472 ui.67901   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:15:38.473 ui.67901   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:15:38.473 ui.67901   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:15:38.473 ui.67901   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:15:38.473 ui.67901   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:16:14.129 ui.68563   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:16:14.130 ui.68563   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:16:14.130 ui.68563   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:16:14.130 ui.68563   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:16:14.130 ui.68563   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:17:22.674 ui.71475   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:17:22.674 ui.71475   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:17:22.674 ui.71475   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:17:22.674 ui.71475   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:17:22.674 ui.71475   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:17:32.318 ui.71675   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:17:32.318 ui.71675   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:17:32.318 ui.71675   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:17:32.319 ui.71675   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:17:32.319 ui.71675   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:18:10.156 ui.72398   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:18:10.156 ui.72398   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:18:10.157 ui.72398   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:18:10.157 ui.72398   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:18:10.157 ui.72398   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:19:05.897 ui.73525   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:19:05.898 ui.73525   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:19:05.898 ui.73525   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:19:05.898 ui.73525   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:19:05.898 ui.73525   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:19:40.560 ui.74264   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:19:40.561 ui.74264   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:19:40.561 ui.74264   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:19:40.561 ui.74264   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:19:40.561 ui.74264   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T11:20:56.444 ui.78484   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-04T11:20:56.444 ui.78484   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T11:20:56.444 ui.78484   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-04T11:20:56.445 ui.78484   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-04T11:20:56.445 ui.78484   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-04T12:52:49.699 ui.90449   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T13:00:08.056 ui.7951    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T13:12:39.231 ui.45026   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T20:08:10.844 ui.94358   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-04T20:08:32.301 ui.96183   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-05T17:29:26.779 ui.21108   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T10:10:09.627 ui.29229   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T13:22:50.052 ui.97563   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T13:23:30.839 ui.98265   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T13:38:06.700 ui.43178   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T13:43:50.621 ui.49012   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-06T15:35:38.499 ui.26172   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-08T10:52:58.634 ui.96528   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-08T10:54:12.306 ui.3413    tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-08T10:55:24.887 ui.10819   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-08T11:04:08.089 ui.35566   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-08T11:04:08.090 ui.35566   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-08T11:04:08.090 ui.35566   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-08T11:04:08.090 ui.35566   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-08T11:04:08.090 ui.35566   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-09T12:50:28.096 ui.53695   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-09T12:50:28.097 ui.53695   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-09T12:50:28.097 ui.53695   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-09T12:50:28.097 ui.53695   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-09T12:50:28.097 ui.53695   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-09T12:50:39.403 ui.53892   tui_handle_term_mode:239: TUI: terminal mode 69 detected, state 2
+WRN 2026-05-09T12:50:39.403 ui.53892   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-09T12:50:39.403 ui.53892   tui_handle_term_mode:239: TUI: terminal mode 2027 detected, state 1
+WRN 2026-05-09T12:50:39.403 ui.53892   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-05-09T12:50:39.403 ui.53892   tui_handle_term_mode:239: TUI: terminal mode 2048 detected, state 2
+WRN 2026-05-09T13:18:43.455 ui.99782   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-09T22:49:28.540 ui.41714   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-11T13:59:58.124 ui.75829   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-12T14:55:59.937 ui.24042   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-12T16:14:04.723 ui.90602   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-12T16:22:31.721 ui.99308   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-12T18:06:57.080 nvim.99309.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-12T18:06:57.081 nvim.99309.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-12T18:06:57.081 nvim.99309.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-05-13T15:25:12.165 ui.18922   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T15:28:42.768 ui.25256   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:31:07.642 ui.45331   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:37:53.012 ui.63767   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:38:53.808 ui.64591   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-13T16:40:27.732 nvim.64592.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T16:40:27.733 nvim.64592.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T16:40:27.733 nvim.64592.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-05-13T16:40:45.321 ui.66101   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:41:12.204 ui.66471   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-13T16:41:18.983 nvim.66472.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T16:41:18.983 nvim.66472.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T16:41:18.983 nvim.66472.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-05-13T16:56:26.644 ui.50486   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:58:57.801 ui.52473   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T16:59:31.576 ui.52962   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T17:00:17.407 ui.53579   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-13T17:11:00.461 ui.14529   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-13T17:13:22.108 nvim.14530.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T17:13:22.108 nvim.14530.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T17:13:22.108 nvim.14530.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-05-13T18:22:14.962 ui.19952   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+ERR 2026-05-13T21:01:32.831 nvim.19953.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T21:01:32.832 nvim.19953.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+ERR 2026-05-13T21:01:32.832 nvim.19953.0 decor_provider_error:29: Error in decoration provider "conceal_line" (ns=nvim.treesitter.highlighter):
+Lua: ...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: attempt to call method 'range' (a nil value)
+stack traceback:
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:196: in function 'get_range'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/treesitter.lua:231: in function 'get_node_text'
+	...nvim-treesitter/lua/nvim-treesitter/query_predicates.lua:141: in function 'handler'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:868: in function '_apply_directives'
+	...d-0.12.0/share/nvim/runtime/lua/vim/treesitter/query.lua:1089: in function '(for generator)'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:1123: in function '_get_injections'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:690: in function '_parse'
+	...0/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:639: in function 'parse'
+	....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:529: in function <....0/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:521>
+	[C]: in function 'nvim_win_text_height'
+	...unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/util.lua:1777: in function 'open_floating_preview'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:444: in function 'show_signature'
+	...-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/buf.lua:459: in function 'handler'
+	...ovim-unwrapped-0.12.0/share/nvim/runtime/lua/vim/lsp.lua:1333: in function 'handler'
+	...wrapped-0.12.0/share/nvim/runtime/lua/vim/lsp/client.lua:732: in function ''
+	vim/_core/editor.lua: in function <vim/_core/editor.lua:0>
+WRN 2026-05-13T21:42:04.061 ui.69039   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-14T12:47:17.769 ui.63205   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-14T12:49:33.342 ui.64989   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2
+WRN 2026-05-14T12:54:42.326 ui.76281   tui_handle_term_mode:239: TUI: terminal mode 2026 detected, state 2

@@ -1,1 +1,3 @@
 .local/state/nvim/undo/**
+*.env
+kimi.env

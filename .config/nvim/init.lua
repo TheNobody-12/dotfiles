@@ -55,3 +55,17 @@ vim.api.nvim_create_autocmd("VimLeave", {
 		vim.cmd("!latexmk -c " .. file)
 	end,
 })
+
+------
+-- Enable Treesitter-based folding for Python
+vim.api.nvim_create_autocmd("FileType", {
+	pattern = "python",
+	callback = function()
+		vim.wo.foldmethod = "expr"
+		vim.wo.foldexpr = "v:lua.vim.treesitter.foldexpr()"
+		vim.wo.foldlevel = 99 -- Start with all folds open
+		vim.wo.foldminlines = 3 -- Only fold blocks with 3+ lines
+		vim.wo.foldcolumn = "1" -- Show fold indicators
+		vim.wo.foldtext = "" -- Clean folded display
+	end,
+})

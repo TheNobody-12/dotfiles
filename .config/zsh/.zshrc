@@ -113,6 +113,23 @@ function y() {
         rm -f -- "$tmp"
 }
 
+# --- Python venv Manager ---
+function venv() {
+    local env_dir="$HOME/Python_Env"
+    if [ -z "$1" ]; then
+        echo "Available environments in $env_dir:"
+        ls -1 "$env_dir" | grep -v "_old"
+        return
+    fi
+
+    if [ -d "$env_dir/$1" ]; then
+        source "$env_dir/$1/bin/activate"
+        echo "🐍 Python environment '$1' activated."
+    else
+        echo "❌ Environment '$1' not found in $env_dir"
+    fi
+}
+
 # export ZOTERO_API_KEY="..."
 
 # eval "$(/opt/homebrew/bin/brew shellenv)"
@@ -124,4 +141,9 @@ function y() {
 
 # open first matching PDF in zathura
 # open first matching PDF in zathura (requires research venv)
+[ -f ~/claude-code/kimi.env ] && source ~/claude-code/kimi.env
 
+# Kimi for coding alias
+alias kimi='source ~/claude-code/kimi.env && claude'
+alias ck='source ~/claude-code/kimi.env && claude --agent caveman --agents "$(cat $HOME/dotfiles/.config/claude/agents.json)"'
+alias caveman='claude --agent caveman --agents "$(cat $HOME/dotfiles/.config/claude/agents.json)"'

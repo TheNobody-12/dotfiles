@@ -103,6 +103,7 @@
             ollama
             opencode
             claude-code
+            qwen-code
 
             # Python Stack (clean)
             python312
@@ -123,6 +124,8 @@
 
             # Utils
             mkalias
+
+            # Some GUI stuffs
           ];
 
           ############################
@@ -160,8 +163,10 @@
 
               # Browsers
               "firefox"
-              #"orion"
+              "orion"
               "brave-browser"
+              "mullvad-browser"
+              
 
               # Terminal
               "ghostty"
@@ -226,7 +231,7 @@
             enable = true;
             enableScriptingAddition = true; # SA on (managed declaratively)
             config = {
-              external_bar = "all:37:0";
+              external_bar = "all:28:0"; # Reduced bar height offset
               mouse_follows_focus = "on";
               focus_follows_mouse = "autoraise";
               window_zoom_persist = "off";
@@ -245,11 +250,11 @@
               mouse_action1 = "move";
               mouse_action2 = "resize";
               mouse_drop_action = "swap";
-              top_padding = 9;
-              bottom_padding = 9;
-              left_padding = 9;
-              right_padding = 9;
-              window_gap = 9;
+              top_padding = 4;
+              bottom_padding = 4;
+              left_padding = 4;
+              right_padding = 4;
+              window_gap = 4;
               layout = "bsp";
             };
             extraConfig = ''
@@ -260,6 +265,13 @@
               yabai -m rule --add label="About This Mac" app="System Information" title="About This Mac" manage=off
               yabai -m rule --add label="Select file to save to" app="^Inkscape$" title="Select file to save to" manage=off
               yabai -m signal --add event=display_changed action="sketchybar --restart; yabai --restart-service"
+              
+              # Sketchybar window icon updates 
+              yabai -m signal --add event=window_created action="sketchybar --trigger window_change" 
+              yabai -m signal --add event=window_destroyed action="sketchybar --trigger window_change" 
+              yabai -m signal --add event=window_title_changed action="sketchybar --trigger window_change"
+              yabai -m signal --add event=space_created action="sketchybar --trigger space_change" 
+              yabai -m signal --add event=space_destroyed action="sketchybar --trigger space_change"
             '';
           };
 

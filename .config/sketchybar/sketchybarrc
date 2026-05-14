@@ -17,15 +17,15 @@ fi
 ##### Bar Appearance #####
 bar=(
   position=top
-  height=32
-  margin=10
-  y_offset=5
-  blur_radius=20
-  color=0xbb111111
-  corner_radius=10
-  border_width=1
+  height=26
+  margin=0
+  y_offset=0
+  blur_radius=10
+  color=0xbb111111 # Darker, solid background
+  corner_radius=0
+  border_width=0
   border_color=0x44ffffff
-  shadow=on
+  shadow=off
 )
 sketchybar --bar "${bar[@]}"
 
@@ -33,48 +33,46 @@ sketchybar --bar "${bar[@]}"
 FONT="JetBrainsMonoNL Nerd Font"
 
 default=(
-  icon.font="$FONT:Bold:14.0"
-  label.font="$FONT:Bold:13.0"
-  icon.color=0xffffffff
-  label.color=0xffffffff
+  icon.font="$FONT:Bold:12.0" # Slightly smaller
+  label.font="$FONT:Bold:12.0" # Slightly smaller
+  icon.color=0xffebdbb2 # Gruvbox light FG
+  label.color=0xffebdbb2
   icon.padding_left=5
   icon.padding_right=5
   label.padding_left=5
   label.padding_right=5
-  background.height=24
-  background.corner_radius=5
+  background.height=20 # Slimmer
+  background.corner_radius=3
 )
 sketchybar --default "${default[@]}"
 
 ##### Spaces (Dynamic from Yabai) #####
-# Fetch space indices from yabai
-SPACES=$(yabai -m query --spaces | jq -r '.[].index')
+sketchybar --add event window_change
+sketchybar --add event space_windows_change
 
-for i in $SPACES; do
-  sketchybar --add space space."$i" left \
-             --set space."$i" space="$i" \
-                                icon="$i" \
-                                label.drawing=off \
-                                background.drawing=on \
-                                background.color=0x00000000 \
-                                script="$PLUGIN_DIR/space.sh" \
-                                click_script="yabai -m space --focus $i"
-done
+# Initial load of spaces
+"$PLUGIN_DIR/space_refresh.sh"
 
-sketchybar --add bracket spaces '/space\..*/' \
-           --set spaces background.color=$BACKGROUND background.drawing=on
+# Subscribe to events to refresh spaces dynamically
+sketchybar --add item space_observer left \
+           --set space_observer drawing=off \
+                                script="$PLUGIN_DIR/space_refresh.sh" \
+           --subscribe space_observer space_change space_windows_change
 
 ##### Items #####
 
 # Media: Increased padding to center between spaces and front_app
+# Start listener if not running
+pgrep -f "media.sh listen" >/dev/null || "$PLUGIN_DIR/media.sh" listen &
+
 sketchybar --add item media left \
            --set media icon="󰝚" \
-                       label.max_chars=25 \
+                       label.max_chars=20 \
                        scroll_texts=off \
                        update_freq=2 \
-                       padding_left=30 \
+                       padding_left=15 \
                        script="$PLUGIN_DIR/media.sh" \
-                       icon.font="JetBrainsMonoNL Nerd Font:Bold:14.0" \
+                       icon.font="JetBrainsMonoNL Nerd Font:Bold:13.0" \
                        background.color=$BACKGROUND \
                        background.drawing=on \
            --subscribe media media_change
@@ -82,7 +80,7 @@ sketchybar --add item media left \
 # Front App (Workspace Name)
 sketchybar --add item front_app center \
            --set front_app script="$PLUGIN_DIR/front_app.sh" \
-                           icon.font="sketchybar-app-font:Regular:16.0" \
+                           icon.font="sketchybar-app-font:Regular:14.0" \
                            background.drawing=off \
            --subscribe front_app front_app_switched
 

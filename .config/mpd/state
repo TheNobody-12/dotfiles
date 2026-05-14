@@ -1,6 +1,8 @@
 sw_volume: 48
 audio_device_state:1:CoreAudio
-state: stop
+state: pause
+current: 2
+time: 764.6560000000001
 random: 0
 repeat: 0
 single: 0
@@ -10,5 +12,7 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Songs/Artists/Arjun Kanungo/Woh Baarishein/Woh Baarishein.flac
+0:Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Nusrat Fateh Ali Khan - Aaj Milkar Bhi.flac
+1:Songs/Artists/Ustad Nusrat Fateh Ali Khan Ustad Sultan Khan/Pukaar The Echo/Main to piya se naina lagaa aayi re.m4a
+2:Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies/Sheikh Jee Baith Kar Maekashon Mein.flac
 playlist_end

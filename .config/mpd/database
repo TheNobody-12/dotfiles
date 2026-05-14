@@ -5902,8 +5902,21 @@ directory: Nusrat Fateh Ali Khan
 mtime: 1775084070
 begin: Songs/Artists/Nusrat Fateh Ali Khan
 directory: Best Urdu Qawwalies
-mtime: 1775084070
+mtime: 1778064310
 begin: Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies
+song_begin: Ni Mein Jana Jogi De Naal.flac
+Time: 1632.306
+Album: Best of Ustad Nusrat Fateh Ali Khan
+AlbumArtist: Ustad Nusrat Fateh Ali Khan
+Artist: Ustad Nusrat Fateh Ali Khan
+Date: 2015
+Disc: 1
+Title: Ni Mein Jana Jogi De Naal
+Track: 10
+Format: 44100:16:2
+mtime: 1773960573
+added: 1778064467
+song_end
 song_begin: Tum Ek Gorakh Dhanda Ho.m4a
 Time: 1817.448
 Artist: Nusrat Fateh Ali Khan
@@ -6033,6 +6046,32 @@ AlbumArtist: Nusrat Fateh Ali Khan
 Format: 44100:f:2
 mtime: 1767735948
 added: 1775084392
+song_end
+song_begin: Sheikh Jee Baith Kar Maekashon Mein.flac
+Time: 1549.679
+Album: Master Of Qawwali
+AlbumArtist: Nusrat Fateh Ali Khan
+Artist: Nusrat Fateh Ali Khan
+Date: 2003
+Disc: 1
+Title: Sheikh Jee Baith Kar Maekashon Mein
+Track: 29
+Format: 44100:16:2
+mtime: 1773960427
+added: 1778064467
+song_end
+song_begin: Nusrat Fateh Ali Khan - Aaj Milkar Bhi.flac
+Time: 845.2
+Title: Aaj Milkar Bhi
+Artist: Nusrat Fateh Ali Khan
+AlbumArtist: Nusrat Fateh Ali Khan
+Album: Supreme Collection, Vol. 5
+Track: 3
+Disc: 1
+Date: 1979
+Format: 44100:16:2
+mtime: 1773123947
+added: 1778064467
 song_end
 end: Songs/Artists/Nusrat Fateh Ali Khan/Best Urdu Qawwalies
 directory: Digbeth Civic Hall UK Concert 1985 Vol 145
@@ -8710,7 +8749,7 @@ Format: 44100:f:2
 mtime: 1766681865
 added: 1766682184
 song_end
-song_begin: 088. Sukh-E Muzical Doctorz - Coka.flac
+song_begin: Sukh-E Muzical Doctorz - Coka.flac
 Time: 141.861
 Album: Coka
 AlbumArtist: Sukh-E Muzical Doctorz
@@ -8722,9 +8761,9 @@ Title: Coka
 Track: 1
 Format: 44100:16:2
 mtime: 1767141931
-added: 1767383086
+added: 1778064468
 song_end
-song_begin: 082. B Praak - Filhall.flac
+song_begin: B Praak - Filhall.flac
 Time: 255
 Album: Filhall
 AlbumArtist: B Praak; Akshay Kumar; Nupur Sanon
@@ -8736,9 +8775,9 @@ Title: Filhall
 Track: 1
 Format: 44100:16:2
 mtime: 1767141820
-added: 1767383086
+added: 1778064466
 song_end
-song_begin: 068. Jass Manak - Butterfly.flac
+song_begin: Jass Manak - Butterfly.flac
 Time: 151.911
 Album: No Competition
 AlbumArtist: Jass Manak
@@ -8750,9 +8789,9 @@ Title: Butterfly
 Track: 2
 Format: 44100:16:2
 mtime: 1767141386
-added: 1767383086
+added: 1778064468
 song_end
-song_begin: 081. Jass Manak - Prada.flac
+song_begin: Jass Manak - Prada.flac
 Time: 182.115
 Album: Prada
 AlbumArtist: Jass Manak
@@ -8764,9 +8803,9 @@ Title: Prada
 Track: 1
 Format: 48000:24:2
 mtime: 1767141779
-added: 1767383086
+added: 1778064468
 song_end
-song_begin: 075. Ammy Virk - Qismat.flac
+song_begin: Ammy Virk - Qismat.flac
 Time: 243.931
 Album: Qismat - Single
 AlbumArtist: Ammy Virk
@@ -8777,5 +8816,5 @@ Title: Qismat
 Track: 1
 Format: 44100:16:2
 mtime: 1767141638
-added: 1767383086
+added: 1778064468
 song_end
