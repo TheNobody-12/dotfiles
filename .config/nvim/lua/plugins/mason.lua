@@ -50,11 +50,8 @@ return {
 		mason_tool_installer.setup({
 
 			ensure_installed = {
-				"python-lsp-server", -- python lsp (pylsp)
-				"ruff", -- python linter and Formatters (Insanely fast)
-				"tinymist", -- typst lsp
-				"texlab", -- latex lsp
-				"stylua", -- lua formatter
+				-- Nix now provides: basedpyright, ruff, tinymist, texlab, stylua, clangd
+				-- Keep Mason free for debug adapters or niche tools only.
 			},
 		})
 	end,

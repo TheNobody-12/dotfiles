@@ -1,7 +1,6 @@
 
-# Enable colors and change prompt:
-autoload -U colors && colors	# Load colors
-PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
+# Enable colors:
+autoload -U colors && colors
 setopt autocd		# Automatically cd into typed directory.
 stty stop undef		# Disable ctrl-s to freeze terminal.
 setopt interactive_comments
@@ -18,20 +17,13 @@ setopt inc_append_history
 [ -f "${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc" ] && source "${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc"
 [ -f "${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" ] && source "${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc"
 
-# Basic auto/tab complete:
-#autoload -U compinit
-#zstyle ':completion:*' menu select
 export EDITOR="nvim"
 export VISUAL="nvim"
 
-# Enable completion system
-autoload -Uz compinit && compinit
-
-# Case-insensitive tab completion matching
+# Completion handled by home-manager; keep styles here
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 
 zmodload zsh/complist
-compinit
 _comp_options+=(globdots)		# Include hidden files.
 
 eval "$(zoxide init zsh --cmd cd)"
@@ -42,10 +34,6 @@ export KEYTIMEOUT=1
 export CLICOLOR=1          # Enable colorized output for ls
 export LSCOLORS=ExFxBxDxCxegedabagacad   # Mac/BSD color codes for types (customizable)
 
-alias ls='ls -G'           # Use -G to enable color output with ls
-alias ll='ls -lG'          # Long listing with color
-alias la='ls -laG'         # List all with color
-alias v='nvim'
 alias gdb='gdb-dashboard'
 
 
@@ -111,6 +99,11 @@ function y() {
         IFS= read -r -d '' cwd < "$tmp"
         [ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
         rm -f -- "$tmp"
+}
+
+# --- Bitwarden CLI unlock helper (rbw) ---
+bwunlock() {
+    rbw unlock
 }
 
 # --- Python venv Manager ---

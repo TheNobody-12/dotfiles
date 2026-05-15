@@ -5,6 +5,19 @@ YABAI="/run/current-system/sw/bin/yabai"
 JQ="/usr/bin/jq"
 PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
 
+# Debounce: if another instance is running, exit
+LOCKFILE="/tmp/sketchybar_space_refresh.lock"
+if [ -f "$LOCKFILE" ]; then
+  PID=$(cat "$LOCKFILE" 2>/dev/null)
+  if kill -0 "$PID" 2>/dev/null; then
+    exit 0
+  fi
+fi
+echo $$ > "$LOCKFILE"
+
+# Small delay to batch rapid successive events
+sleep 0.15
+
 # 1. Get current spaces from yabai
 SPACES=$("$YABAI" -m query --spaces | "$JQ" -r '.[].index')
 
@@ -35,8 +48,7 @@ for item in $EXISTING_SPACES; do
     fi
 done
 
-# 5. Fix Ordering: Ensure all space.N items are at the front
-# We re-fetch items because we just added/removed some
+# 5. Fix ordering
 ALL_ITEMS=$("$SKETCHYBAR" --query bar | "$JQ" -r '.items[]')
 ORDERED_SPACES=$(echo "$ALL_ITEMS" | grep "^space\." | sort -V | tr '\n' ' ')
 OTHER_ITEMS=$(echo "$ALL_ITEMS" | grep -v "^space\." | tr '\n' ' ')
@@ -45,3 +57,5 @@ OTHER_ITEMS=$(echo "$ALL_ITEMS" | grep -v "^space\." | tr '\n' ' ')
 
 # 6. Trigger update
 "$SKETCHYBAR" --trigger window_change
+
+rm -f "$LOCKFILE"

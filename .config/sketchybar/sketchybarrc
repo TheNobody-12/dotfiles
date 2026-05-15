@@ -1,11 +1,9 @@
 #!/usr/bin/env sh
 
-# Ensure CONFIG_DIR exists
 : "${CONFIG_DIR:=$HOME/.config/sketchybar}"
 PLUGIN_DIR="$CONFIG_DIR/plugins"
 THEME_FILE="$HOME/.config/themes/current/shellcolors.sh"
 
-# Theme Colors
 if [ -r "$THEME_FILE" ]; then
   source "$THEME_FILE"
 else
@@ -14,18 +12,20 @@ else
   ACTIVE=0xfffe8019
 fi
 
-##### Bar Appearance #####
+##### Bar Appearance (Floating Pill) #####
 bar=(
   position=top
   height=26
-  margin=0
-  y_offset=0
+  margin=250
+  padding_left=12
+  padding_right=12
+  y_offset=2
   blur_radius=10
-  color=0xbb111111 # Darker, solid background
-  corner_radius=0
-  border_width=0
+  color=0xbb111111
+  corner_radius=8
+  border_width=2
   border_color=0x44ffffff
-  shadow=off
+  shadow=on
 )
 sketchybar --bar "${bar[@]}"
 
@@ -33,15 +33,15 @@ sketchybar --bar "${bar[@]}"
 FONT="JetBrainsMonoNL Nerd Font"
 
 default=(
-  icon.font="$FONT:Bold:12.0" # Slightly smaller
-  label.font="$FONT:Bold:12.0" # Slightly smaller
-  icon.color=0xffebdbb2 # Gruvbox light FG
+  icon.font="$FONT:Bold:12.0"
+  label.font="$FONT:Bold:12.0"
+  icon.color=0xffebdbb2
   label.color=0xffebdbb2
   icon.padding_left=5
   icon.padding_right=5
   label.padding_left=5
   label.padding_right=5
-  background.height=20 # Slimmer
+  background.height=20
   background.corner_radius=3
 )
 sketchybar --default "${default[@]}"
@@ -50,10 +50,8 @@ sketchybar --default "${default[@]}"
 sketchybar --add event window_change
 sketchybar --add event space_windows_change
 
-# Initial load of spaces
 "$PLUGIN_DIR/space_refresh.sh"
 
-# Subscribe to events to refresh spaces dynamically
 sketchybar --add item space_observer left \
            --set space_observer drawing=off \
                                 script="$PLUGIN_DIR/space_refresh.sh" \
@@ -61,15 +59,14 @@ sketchybar --add item space_observer left \
 
 ##### Items #####
 
-# Media: Increased padding to center between spaces and front_app
-# Start listener if not running
+# Media: background listener for instant browser updates, fallback poll every 5s
 pgrep -f "media.sh listen" >/dev/null || "$PLUGIN_DIR/media.sh" listen &
 
 sketchybar --add item media left \
            --set media icon="󰝚" \
                        label.max_chars=20 \
                        scroll_texts=off \
-                       update_freq=2 \
+                       update_freq=5 \
                        padding_left=15 \
                        script="$PLUGIN_DIR/media.sh" \
                        icon.font="JetBrainsMonoNL Nerd Font:Bold:13.0" \
@@ -77,14 +74,22 @@ sketchybar --add item media left \
                        background.drawing=on \
            --subscribe media media_change
 
-# Front App (Workspace Name)
+# Front App
 sketchybar --add item front_app center \
            --set front_app script="$PLUGIN_DIR/front_app.sh" \
                            icon.font="sketchybar-app-font:Regular:14.0" \
                            background.drawing=off \
            --subscribe front_app front_app_switched
 
-# System Items (Right side)
+# CPU/RAM
+sketchybar --add item cpu_ram right \
+           --set cpu_ram update_freq=5 \
+                         icon="󰍛" \
+                         script="$PLUGIN_DIR/cpu_ram.sh" \
+                         background.color=$BACKGROUND \
+                         background.drawing=on
+
+# Clock
 sketchybar --add item clock right \
            --set clock update_freq=10 \
                        icon="󰥔" \
@@ -92,12 +97,14 @@ sketchybar --add item clock right \
                        background.color=$BACKGROUND \
                        background.drawing=on
 
+# Volume
 sketchybar --add item volume right \
            --set volume script="$PLUGIN_DIR/volume.sh" \
                        background.color=$BACKGROUND \
                        background.drawing=on \
            --subscribe volume volume_change
 
+# Battery
 sketchybar --add item battery right \
            --set battery update_freq=60 \
                          script="$PLUGIN_DIR/battery.sh" \

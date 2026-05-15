@@ -29,8 +29,8 @@ return {
 		vim.lsp.enable("lua_ls")
 
 		-- Python
-		vim.lsp.config("pylsp", { capabilities = capabilities })
-		vim.lsp.enable("pylsp")
+		vim.lsp.config("basedpyright", { capabilities = capabilities })
+		vim.lsp.enable("basedpyright")
 
 		vim.lsp.config("ruff", { capabilities = capabilities })
 		vim.lsp.enable("ruff")
