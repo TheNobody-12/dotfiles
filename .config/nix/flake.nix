@@ -1,5 +1,5 @@
 {
-  description = "Gravity hardened nix-darwin system";
+  description = "Sarthak hardened nix-darwin system";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -14,10 +14,10 @@
   outputs = inputs@{ self, nixpkgs, nix-darwin, home-manager, ... }:
   let
     system = "aarch64-darwin";
-    username = "gravity";
+    username = "sarthakkapaliya";
   in
   {
-    darwinConfigurations."air" = nix-darwin.lib.darwinSystem {
+    darwinConfigurations."Sarthaks-MacBook-Pro" = nix-darwin.lib.darwinSystem {
       inherit system;
       specialArgs = { inherit self inputs; };
 
