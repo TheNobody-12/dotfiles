@@ -1,7 +1,6 @@
-{ config, pkgs, lib, self, ... }:
+{ config, pkgs, lib, self, username, ... }:
 
 let
-  username = "gravity";
 
   dnscryptConfig = pkgs.writeText "dnscrypt-proxy2.toml" ''
     listen_addresses = ['127.0.0.1:5353']
@@ -41,15 +40,15 @@ in
     ];
   };
 
-  nix.optimise.automatic = true;
+  # nix.optimise.automatic = true;
 
-  nix.gc = {
-    automatic = true;
-    interval = { Weekday = 0; Hour = 3; Minute = 0; };
-    options = "--delete-older-than 14d";
-  };
+  # nix.gc = {
+  #   automatic = true;
+  #   interval = { Weekday = 0; Hour = 3; Minute = 0; };
+  #   options = "--delete-older-than 14d";
+  # };
 
-  nix.enable = true;
+  nix.enable = false;
 
   system.stateVersion = 6;
   system.configurationRevision = self.rev or self.dirtyRev or null;
@@ -85,8 +84,8 @@ in
       ];
       KeepAlive = true;
       RunAtLoad = true;
-      StandardErrorPath = "/tmp/dnscrypt-proxy2.log";
-      StandardOutPath = "/tmp/dnscrypt-proxy2.log";
+      StandardErrorPath = "/Users/${username}/Library/Logs/dnscrypt-proxy2.log";
+      StandardOutPath = "/Users/${username}/Library/Logs/dnscrypt-proxy2.log";
     };
   };
 

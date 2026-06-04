@@ -28,6 +28,9 @@
     opencode
     claude-code
     qwen-code
+
+    # Development
+    nodejs
   ];
 
   programs.home-manager.enable = true;
@@ -68,14 +71,11 @@
         source $HOME/.config/zsh/.zshrc
       fi
 
-      # Ensure ZDOTDIR is set for future shells
-      export ZDOTDIR=$HOME/.config/zsh
-
       # fzf-tab (must load after compinit)
-      if [ -f "${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh" ]; then
-        source "${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh"
-      elif [ -f "${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh" ]; then
-        source "${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh"
+      if [ -f "''${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh" ]; then
+        source "''${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh"
+      elif [ -f "''${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh" ]; then
+        source "''${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh"
       fi
     '';
 
@@ -123,12 +123,12 @@
     signing.format = "openpgp";
     settings = {
       user = {
-        name = "gravity";
-        email = "gravity@example.com";
+        name = "TheNobody-12";
+        email = "sarthak.kce20@gmail.com";
       };
       init.defaultBranch = "main";
       push.autoSetupRemote = true;
-      commit.gpgsign = true;
+      commit.gpgsign = false;
       core.sshCommand = "ssh -o IdentitiesOnly=yes";
     };
   };
@@ -136,6 +136,7 @@
   home.sessionPath = [
     "/opt/homebrew/bin"
     "/opt/homebrew/sbin"
+    "$HOME/.npm-global/bin"
   ];
 
   home.sessionVariables = {

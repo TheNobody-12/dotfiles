@@ -19,7 +19,7 @@
   {
     darwinConfigurations."Sarthaks-MacBook-Pro" = nix-darwin.lib.darwinSystem {
       inherit system;
-      specialArgs = { inherit self inputs; };
+      specialArgs = { inherit self inputs username; };
 
       modules = [
         home-manager.darwinModules.home-manager

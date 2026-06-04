@@ -59,13 +59,13 @@ preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
 # Use lf to switch directories and bind it to ctrl-o
 lfcd () {
-    tmp="$(mktemp -uq)"
-    trap 'rm -f $tmp >/dev/null 2>&1 && trap - HUP INT QUIT TERM PWR EXIT' HUP INT QUIT TERM PWR EXIT
+    local tmp="$(mktemp -t lfcd.XXXXXX)"
     lf -last-dir-path="$tmp" "$@"
     if [ -f "$tmp" ]; then
-        dir="$(cat "$tmp")"
+        local dir="$(< "$tmp")"
         [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
     fi
+    rm -f "$tmp"
 }
 bindkey -s '^o' '^ulfcd\n'
 
@@ -83,11 +83,12 @@ bindkey -M vicmd '^e' edit-command-line
 bindkey -M visual '^[[P' vi-delete
 
 # Load syntax highlighting; should be last.
-if [ -f /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh ]; then
-  source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
-elif [ -f /opt/homebrew/share/zsh-fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh ]; then
-  source /opt/homebrew/share/zsh-fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
-fi
+# Disabled to avoid duplicating home-manager's syntax highlighting
+# if [ -f /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh ]; then
+#   source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
+# elif [ -f /opt/homebrew/share/zsh-fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh ]; then
+#   source /opt/homebrew/share/zsh-fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
+# fi
 
 export PATH="/Library/TeX/texbin:$PATH"
 
@@ -138,5 +139,5 @@ function venv() {
 
 # Kimi for coding alias
 alias kimi='source ~/claude-code/kimi.env && claude'
-alias ck='source ~/claude-code/kimi.env && claude --agent caveman --agents "$(cat $HOME/dotfiles/.config/claude/agents.json)"'
-alias caveman='claude --agent caveman --agents "$(cat $HOME/dotfiles/.config/claude/agents.json)"'
+alias ck='source ~/claude-code/kimi.env && claude --agent caveman --agents "$(< $HOME/dotfiles/.config/claude/agents.json)"'
+alias caveman='claude --agent caveman --agents "$(< $HOME/dotfiles/.config/claude/agents.json)"'
