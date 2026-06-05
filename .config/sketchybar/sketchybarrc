@@ -16,7 +16,7 @@ fi
 bar=(
   position=top
   height=26
-  margin=250
+  margin=10
   padding_left=12
   padding_right=12
   y_offset=2
@@ -59,6 +59,14 @@ sketchybar --add item space_observer left \
 
 ##### Items #####
 
+# Apple Menu
+sketchybar --add item apple.logo left \
+           --set apple.logo icon="" \
+                            icon.font="JetBrainsMonoNL Nerd Font:Bold:16.0" \
+                            icon.color=$ACTIVE \
+                            padding_right=15 \
+                            click_script="open -a 'System Settings'"
+
 # Media: background listener for instant browser updates, fallback poll every 5s
 pgrep -f "media.sh listen" >/dev/null || "$PLUGIN_DIR/media.sh" listen &
 
@@ -75,11 +83,17 @@ sketchybar --add item media left \
            --subscribe media media_change
 
 # Front App
-sketchybar --add item front_app center \
+sketchybar --add item front_app left \
            --set front_app script="$PLUGIN_DIR/front_app.sh" \
                            icon.font="sketchybar-app-font:Regular:14.0" \
                            background.drawing=off \
            --subscribe front_app front_app_switched
+
+# Network
+sketchybar --add item network right \
+           --set network update_freq=3 \
+                         script="$PLUGIN_DIR/network.sh" \
+                         icon="󰤨"
 
 # CPU/RAM
 sketchybar --add item cpu_ram right \
@@ -95,13 +109,15 @@ sketchybar --add item clock right \
                        icon="󰥔" \
                        script="$PLUGIN_DIR/clock.sh" \
                        background.color=$BACKGROUND \
-                       background.drawing=on
+                       background.drawing=on \
+                       click_script="open -a Calendar"
 
 # Volume
 sketchybar --add item volume right \
            --set volume script="$PLUGIN_DIR/volume.sh" \
                        background.color=$BACKGROUND \
                        background.drawing=on \
+                       click_script="osascript -e 'set volume output muted not (output muted of (get volume settings))'" \
            --subscribe volume volume_change
 
 # Battery
@@ -110,6 +126,7 @@ sketchybar --add item battery right \
                          script="$PLUGIN_DIR/battery.sh" \
                          background.color=$BACKGROUND \
                          background.drawing=on \
+                         click_script="open -a 'Activity Monitor'" \
            --subscribe battery system_woke power_source_change
 
 sketchybar --update

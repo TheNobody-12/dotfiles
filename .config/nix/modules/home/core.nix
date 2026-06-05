@@ -72,10 +72,10 @@
       fi
 
       # fzf-tab (must load after compinit)
-      if [ -f "''${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh" ]; then
-        source "''${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh"
-      elif [ -f "''${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh" ]; then
-        source "''${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh"
+      if [ -f "${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh" ]; then
+        source "${pkgs.zsh-fzf-tab}/share/fzf-tab/fzf-tab.plugin.zsh"
+      elif [ -f "${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh" ]; then
+        source "${pkgs.zsh-fzf-tab}/share/zsh-fzf-tab/fzf-tab.plugin.zsh"
       fi
     '';
 
@@ -137,6 +137,7 @@
     "/opt/homebrew/bin"
     "/opt/homebrew/sbin"
     "$HOME/.npm-global/bin"
+    "$HOME/dotfiles/.local/bin"
   ];
 
   home.sessionVariables = {

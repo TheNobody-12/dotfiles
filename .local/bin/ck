@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+source "$HOME/claude-code/kimi.env"
+exec claude --agent caveman --agents "$(< "$HOME/dotfiles/.config/claude/agents.json")" "$@"

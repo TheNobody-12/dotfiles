@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec claude --agent caveman --agents "$(< "$HOME/dotfiles/.config/claude/agents.json")" "$@"

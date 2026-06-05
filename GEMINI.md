@@ -19,7 +19,7 @@ This repository is a declarative macOS "rice" (dotfiles) built for Apple Silicon
 ## 🛠 Operational Commands
 
 ### Nix Management
-*   **Rebuild System**: `sudo darwin-rebuild switch --flake .#air` (Execute from `~/.config/nix`)
+*   **Rebuild System**: `sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro` (Execute from `~/dotfiles/.config/nix`)
 *   **Update Inputs**: `nix flake update`
 *   **Garbage Collection**: `nix-store --gc`
 

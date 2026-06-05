@@ -20,16 +20,16 @@ This repository contains a declarative, high-performance "rice" for macOS (aarch
 ### 1. Applying Changes
 Any change made to files in `.config/nix/` requires a rebuild to take effect.
 ```bash
-cd ~/.config/nix
-sudo darwin-rebuild switch --flake .#air
+cd ~/dotfiles/.config/nix
+sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro
 ```
 
 ### 2. Updating the System
 Update the Nix flake inputs (to get latest packages) and then rebuild.
 ```bash
-cd ~/.config/nix
+cd ~/dotfiles/.config/nix
 nix flake update
-sudo darwin-rebuild switch --flake .#air
+sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro
 ```
 
 ### 3. Maintenance & Garbage Collection
@@ -72,7 +72,7 @@ bash ~/.config/themes/set_theme.sh Catppuccin
 1. Install Nix: `curl -L https://nixos.org/nix/install | sh`.
 2. Clone this repo to `~/dotfiles`.
 3. Change the `username` variable in `nix/flake.nix` to your local user.
-4. Run: `cd ~/dotfiles/.config/nix && nix run nix-darwin -- switch --flake .#air`.
+4. Run: `cd ~/dotfiles/.config/nix && nix run nix-darwin -- switch --flake .#Sarthaks-MacBook-Pro`.
 
 ### 🐧 To Linux
 This setup is designed to be **Linux-ready**. 

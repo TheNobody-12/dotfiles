@@ -54,7 +54,7 @@
   services.sketchybar.enable = true;
 
   services.yabai = {
-    enable = true;
+    enable = false;
     enableScriptingAddition = true;
     config = {
       external_bar = "all:28:0";

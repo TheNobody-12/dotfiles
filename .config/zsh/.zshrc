@@ -137,7 +137,3 @@ function venv() {
 # open first matching PDF in zathura (requires research venv)
 [ -f ~/claude-code/kimi.env ] && source ~/claude-code/kimi.env
 
-# Kimi for coding alias
-alias kimi='source ~/claude-code/kimi.env && claude'
-alias ck='source ~/claude-code/kimi.env && claude --agent caveman --agents "$(< $HOME/dotfiles/.config/claude/agents.json)"'
-alias caveman='claude --agent caveman --agents "$(< $HOME/dotfiles/.config/claude/agents.json)"'

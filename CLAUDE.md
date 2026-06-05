@@ -8,17 +8,17 @@ Declarative macOS "rice" (dotfiles) for Apple Silicon (`aarch64-darwin`). Not a 
 
 ## Apply / Rebuild Commands
 
-All Nix work runs from `~/.config/nix` (which is `.config/nix/` in this repo). Host flake attribute is `air`, user is `gravity`.
+All Nix work runs from `~/dotfiles/.config/nix` (which is `.config/nix/` in this repo). Host flake attribute is `Sarthaks-MacBook-Pro`, user is `gravity`.
 
 ```bash
 # Apply config changes (flake.nix / home.nix / any module)
-cd ~/.config/nix && sudo darwin-rebuild switch --flake .#air
+cd ~/dotfiles/.config/nix && sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro
 
 # Bump flake inputs, then rebuild
-cd ~/.config/nix && nix flake update && sudo darwin-rebuild switch --flake .#air
+cd ~/dotfiles/.config/nix && nix flake update && sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro
 
 # Eval check (fast, no sudo needed)
-cd ~/.config/nix && nix flake check
+cd ~/dotfiles/.config/nix && nix flake check
 
 # GC + store optimization
 nix-store --gc && nix-store --optimise
@@ -173,8 +173,8 @@ Custom utilities (`compiler`, `opout`, `sysact`, `getbib`, `noisereduce`, `short
 
 1. Install Nix: `curl -L https://nixos.org/nix/install | sh`
 2. Clone repo to `~/dotfiles` (the `.config` and `.local` here become `$HOME/.config`, `$HOME/.local`)
-3. Change `username` in `.config/nix/flake.nix` if not `gravity`; change host attr if not `air`
-4. `cd ~/dotfiles/.config/nix && nix run nix-darwin -- switch --flake .#air`
+3. Change `username` in `.config/nix/flake.nix` if not `gravity`; change host attr if not `Sarthaks-MacBook-Pro`
+4. `cd ~/dotfiles/.config/nix && nix run nix-darwin -- switch --flake .#Sarthaks-MacBook-Pro`
 5. After first boot: `atuin import auto`, configure syncthing at `localhost:8384`, open Lulu to approve apps
 
 Linux port: `home.nix` modules are cross-platform; swap `darwinConfigurations` for `nixosConfigurations` and replace yabai/skhd/sketchybar with i3/sway + polybar/waybar.
@@ -203,7 +203,7 @@ Linux port: `home.nix` modules are cross-platform; swap `darwinConfigurations` f
 
 ### Update flake inputs
 ```bash
-cd ~/.config/nix && nix flake update && sudo darwin-rebuild switch --flake .#air
+cd ~/dotfiles/.config/nix && nix flake update && sudo darwin-rebuild switch --flake .#Sarthaks-MacBook-Pro
 ```
 
 ### Update Homebrew packages
